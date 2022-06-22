@@ -133,7 +133,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pará;15005364;014;Realizada;3;2;Casa;4;1;Próprio – já pago;0;0;4;4;842;3;280
 2015;Pará;15005402;004;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;4;4;1878;2;939
 2015;Pará;15005429;005;Realizada;2;2;Casa;3;1;Cedido de outra forma;0;0;4;8;200;2;100
-2015;Pará;15005500;005;Realizada;6;5;Casa;5;3;Próprio – já pago;0;0;4;8;999999999999;6;999999999999
+2015;Pará;15005500;005;Realizada;6;5;Casa;5;3;Próprio – já pago;0;0;4;8;10;6;10
 2015;Pará;15005542;013;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;2;4;1300;2;650
 2015;Pará;15005585;007;Realizada;6;5;Casa;5;3;Próprio – já pago;0;0;2;4;1417;6;236
 2015;Amapá;16000102;002;Realizada;6;4;Apartamento;3;2;Alugado;250;0;4;8;1288;6;214
@@ -166,7 +166,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Tocantins;17001293;010;Realizada;2;2;Apartamento;5;2;Próprio – ainda pagando;0;690;2;2;0;2;0
 2015;Tocantins;17001498;032;Realizada;5;4;Casa;6;3;Próprio – já pago;0;0;2;4;1888;5;377
 2015;Maranhão;21000131;012;Realizada;6;4;Casa;4;2;Próprio – já pago;0;0;4;8;865;6;144
-2015;Maranhão;21000158;003;Realizada;2;2;Casa;2;1;Próprio – já pago;0;0;4;8;999999999999;2;999999999999
+2015;Maranhão;21000158;003;Realizada;2;2;Casa;2;1;Próprio – já pago;0;0;4;8;10;2;10
 2015;Maranhão;21000239;004;Realizada;4;2;Casa;4;1;Próprio – já pago;0;0;4;8;250;4;62
 2015;Maranhão;21000263;004;Realizada;6;3;Casa;4;2;Próprio – já pago;0;0;4;4;1328;6;221
 2015;Maranhão;21000395;008;Realizada;5;3;Casa;6;2;Próprio – já pago;0;0;4;8;1576;5;315
@@ -225,8 +225,8 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23001275;002;Realizada;3;3;Casa;7;3;Alugado;680;0;2;2;4376;3;1458
 2015;Ceará;23001275;012;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;8;1400;2;700
 2015;Ceará;23001429;004;Realizada;2;2;Casa;4;2;Alugado;250;0;2;8;788;2;394
-2015;Ceará;23001496;018;Realizada;3;3;Apartamento;10;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
-2015;Ceará;23001712;002;Realizada;3;3;Casa;5;1;Próprio – já pago;0;0;4;4;999999999999;3;999999999999
+2015;Ceará;23001496;018;Realizada;3;3;Apartamento;10;2;Próprio – já pago;0;0;2;2;10;3;10
+2015;Ceará;23001712;002;Realizada;3;3;Casa;5;1;Próprio – já pago;0;0;4;4;10;3;10
 2015;Ceará;23001739;004;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;2;6;2800;3;933
 2015;Ceará;23001984;018;Realizada;2;2;Casa;6;1;Alugado;500;0;2;2;3788;2;1894
 2015;Ceará;23002018;005;Realizada;1;1;Casa;4;1;Alugado;300;0;2;8;1100;1;1100
@@ -242,9 +242,9 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23002921;018;Realizada;5;4;Casa;6;3;Cedido de outra forma;0;0;4;8;1576;5;315
 2015;Ceará;23002972;008;Realizada;1;1;Casa;2;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;Ceará;23003006;003;Realizada;2;2;Casa;6;1;Próprio – ainda pagando;0;350;4;4;1576;2;788
-2015;Ceará;23003030;003;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;8;999999999999;2;999999999999
+2015;Ceará;23003030;003;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;8;10;2;10
 2015;Ceará;23003189;003;Realizada;4;4;Casa;6;2;Cedido de outra forma;0;0;4;8;1736;4;434
-2015;Ceará;23003243;003;Realizada;4;4;Casa;5;1;Outra condição;0;0;4;4;999999999999;4;999999999999
+2015;Ceará;23003243;003;Realizada;4;4;Casa;5;1;Outra condição;0;0;4;4;10;4;10
 2015;Ceará;23003251;009;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;180;1;180
 2015;Ceará;23003260;012;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;460;1;460
 2015;Ceará;23003294;003;Realizada;4;4;Casa;3;2;Alugado;250;0;4;6;1863;4;465
@@ -413,7 +413,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Bahia;29001552;014;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;4;788;2;394
 2015;Bahia;29001749;012;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;6;2588;4;647
 2015;Bahia;29001781;013;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;8;788;1;788
-2015;Bahia;29001803;013;Realizada;5;4;Casa;8;3;Alugado;550;0;2;6;999999999999;5;999999999999
+2015;Bahia;29001803;013;Realizada;5;4;Casa;8;3;Alugado;550;0;2;6;10;5;10
 2015;Bahia;29001943;014;Realizada;3;3;Casa;5;2;Cedido de outra forma;0;0;4;8;2364;3;788
 2015;Bahia;29001960;005;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;1576;1;1576
 2015;Bahia;29001978;005;Realizada;6;4;Casa;5;2;Próprio – já pago;0;0;2;4;2585;6;430
@@ -532,7 +532,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31003001;012;Realizada;3;3;Casa;4;2;Alugado;450;0;2;4;2100;3;700
 2015;Minas Gerais;31003060;013;Realizada;4;3;Casa;7;2;Cedido por empregador;0;0;4;2;1247;4;311
 2015;Minas Gerais;31003222;011;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;4;4;562;3;187
-2015;Minas Gerais;31003265;013;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
+2015;Minas Gerais;31003265;013;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;2;10;2;10
 2015;Minas Gerais;31003478;016;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;8;788;3;262
 2015;Minas Gerais;31003494;017;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;8;1700;2;850
 2015;Minas Gerais;31003621;017;Realizada;4;2;Casa;6;2;Próprio – já pago;0;0;4;8;413;4;103
@@ -635,7 +635,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33001472;018;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;8;3876;3;1292
 2015;Rio de Janeiro;33001596;002;Realizada;3;3;Casa;6;2;Cedido de outra forma;0;0;4;8;3100;3;1033
 2015;Rio de Janeiro;33001677;003;Realizada;5;5;Casa;4;2;Próprio – já pago;0;0;2;8;2376;5;475
-2015;Rio de Janeiro;33001790;010;Realizada;4;4;Casa;6;3;Alugado;999999999999;0;2;2;999999999999;4;999999999999
+2015;Rio de Janeiro;33001790;010;Realizada;4;4;Casa;6;3;Alugado;10;0;2;2;10;4;10
 2015;Rio de Janeiro;33001928;009;Realizada;5;4;Casa;5;2;Próprio – já pago;0;0;2;8;1980;5;396
 2015;Rio de Janeiro;33002193;014;Realizada;1;1;Apartamento;5;1;Próprio – já pago;0;0;2;8;3000;1;3000
 2015;Rio de Janeiro;33002398;012;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;8;1788;3;596
@@ -714,7 +714,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35000201;011;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;6;4000;3;1333
 2015;São Paulo;35000201;012;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;6;2100;2;1050
 2015;São Paulo;35000457;009;Realizada;2;2;Casa;5;2;Alugado;694;0;2;2;4205;2;2102
-2015;São Paulo;35000619;007;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;São Paulo;35000619;007;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;2;2;10;2;10
 2015;São Paulo;35000660;001;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;4288;2;2144
 2015;São Paulo;35000686;023;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;4300;3;1433
 2015;São Paulo;35000716;015;Realizada;2;2;Apartamento;5;1;Próprio – já pago;0;0;2;2;2588;2;1294
@@ -750,7 +750,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35002638;016;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;2;2599;2;1299
 2015;São Paulo;35002689;015;Realizada;6;6;Casa;5;2;Próprio – já pago;0;0;2;2;2188;6;364
 2015;São Paulo;35002719;014;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;2857;2;1428
-2015;São Paulo;35002816;001;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;8;999999999999;2;999999999999
+2015;São Paulo;35002816;001;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;8;10;2;10
 2015;São Paulo;35002832;009;Realizada;4;4;Casa;7;2;Próprio – já pago;0;0;2;6;4088;4;1022
 2015;São Paulo;35002859;004;Realizada;2;2;Casa;9;1;Próprio – já pago;0;0;2;2;6649;2;3324
 2015;São Paulo;35002875;029;Realizada;4;3;Casa;7;2;Próprio – já pago;0;0;4;2;1400;4;350
@@ -767,10 +767,10 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35003472;007;Realizada;3;2;Casa;5;2;Alugado;650;0;2;6;2400;3;800
 2015;São Paulo;35003499;001;Realizada;5;4;Casa;6;3;Próprio – já pago;0;0;2;6;3676;5;735
 2015;São Paulo;35003502;003;Realizada;1;1;Apartamento;5;1;Alugado;550;0;2;2;1600;1;1600
-2015;São Paulo;35003618;009;Realizada;4;2;Casa;6;2;Próprio – ainda pagando;0;40;2;2;999999999999;4;999999999999
+2015;São Paulo;35003618;009;Realizada;4;2;Casa;6;2;Próprio – ainda pagando;0;40;2;2;10;4;10
 2015;São Paulo;35003898;009;Realizada;5;5;Casa;10;3;Próprio – já pago;0;0;2;6;6500;5;1300
 2015;São Paulo;35003936;002;Realizada;3;3;Casa;12;2;Próprio – já pago;0;0;2;2;8776;3;2925
-2015;São Paulo;35003952;013;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;6;999999999999;2;999999999999
+2015;São Paulo;35003952;013;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;6;10;2;10
 2015;São Paulo;35004029;009;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;2;7800;3;2600
 2015;São Paulo;35004061;009;Realizada;3;3;Casa;5;3;Próprio – já pago;0;0;2;2;3900;3;1300
 2015;São Paulo;35004240;006;Realizada;4;2;Casa;6;2;Próprio – já pago;0;0;4;8;2886;4;721
@@ -785,8 +785,8 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35005181;002;Realizada;2;2;N/A;0;0;NA;0;0; ; ;3000;2;1500
 2015;São Paulo;35005327;014;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;São Paulo;35005394;005;Realizada;4;4;Casa;6;3;Próprio – ainda pagando;0;716;2;6;6370;4;1592
-2015;São Paulo;35005513;001;Realizada;5;4;Casa;8;3;Alugado;999999999999;0;2;8;2400;5;480
-2015;São Paulo;35005742;002;Realizada;2;1;Apartamento;3;2;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;São Paulo;35005513;001;Realizada;5;4;Casa;8;3;Alugado;10;0;2;8;2400;5;480
+2015;São Paulo;35005742;002;Realizada;2;1;Apartamento;3;2;Próprio – já pago;0;0;2;2;10;2;10
 2015;São Paulo;35005769;013;Realizada;1;1;Casa;9;1;Próprio – já pago;0;0;2;2;1576;1;1576
 2015;São Paulo;35005882;002;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;2;1000;1;1000
 2015;São Paulo;35005882;010;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;900;1;900
@@ -843,12 +843,12 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35009632;012;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;8;2288;2;1144
 2015;São Paulo;35009640;022;Realizada;3;2;Casa;2;1;Alugado;450;0;4;6;4070;3;1356
 2015;São Paulo;35009756;003;Realizada;2;2;Casa;4;2;Próprio – já pago;0;0;2;8;1700;2;850
-2015;São Paulo;35009780;013;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;4;8;999999999999;3;999999999999
+2015;São Paulo;35009780;013;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;4;8;10;3;10
 2015;São Paulo;35009837;005;Realizada;2;1;Casa;3;1;Próprio – já pago;0;0;4;8;312;2;156
 2015;São Paulo;35009853;006;Realizada;4;3;Casa;5;2;Alugado;600;0;2;8;5000;4;1250
 2015;São Paulo;35010029;016;Realizada;2;2;Casa;4;1;Alugado;185;0;2;6;2190;2;1095
 2015;São Paulo;35010053;011;Realizada;4;2;Casa;4;2;Cedido por empregador;0;0;4;2;1788;4;447
-2015;São Paulo;35010223;002;Realizada;6;4;Casa;7;2;Próprio – já pago;0;0;2;2;999999999999;6;999999999999
+2015;São Paulo;35010223;002;Realizada;6;4;Casa;7;2;Próprio – já pago;0;0;2;2;10;6;10
 2015;Paraná;41000056;011;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;8;1576;2;788
 2015;Paraná;41000153;001;Realizada;3;3;Casa;10;3;Próprio – já pago;0;0;4;6;5188;3;1729
 2015;Paraná;41000170;014;Realizada;3;3;Casa;5;2;Alugado;1000;0;4;2;3788;3;1262
@@ -867,7 +867,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraná;41001320;014;Realizada;3;3;Casa;5;2;Alugado;600;0;2;2;2700;3;900
 2015;Paraná;41001443;003;Realizada;2;2;Apartamento;6;2;Próprio – já pago;0;0;2;2;5600;2;2800
 2015;Paraná;41001540;004;Realizada;6;4;Casa;8;3;Alugado;600;0;2;2;3000;6;500
-2015;Paraná;41001621;003;Realizada;2;2;Apartamento;10;1;Próprio – ainda pagando;0;3000;2;6;999999999999;2;999999999999
+2015;Paraná;41001621;003;Realizada;2;2;Apartamento;10;1;Próprio – ainda pagando;0;3000;2;6;10;2;10
 2015;Paraná;41001621;014;Realizada;4;3;Apartamento;6;2;Alugado;1200;0;2;2;4900;4;1225
 2015;Paraná;41001672;002;Realizada;3;3;Casa;11;2;Próprio – já pago;0;0;2;2;13400;3;4466
 2015;Paraná;41001702;009;Realizada;2;2;Casa;8;1;Próprio – já pago;0;0;2;2;3000;2;1500
@@ -887,7 +887,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraná;41002512;011;Realizada;4;3;Casa;8;2;Próprio – já pago;0;0;2;2;3700;4;925
 2015;Paraná;41002512;012;Realizada;4;2;Casa;6;2;Próprio – já pago;0;0;2;4;3300;4;825
 2015;Paraná;41002512;016;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;1500;1;1500
-2015;Paraná;41002547;015;Realizada;2;2;Apartamento;5;1;Alugado;600;0;2;2;999999999999;2;999999999999
+2015;Paraná;41002547;015;Realizada;2;2;Apartamento;5;1;Alugado;600;0;2;2;10;2;10
 2015;Paraná;41002628;015;Realizada;6;4;Casa;6;3;Próprio – já pago;0;0;2;2;1865;6;310
 2015;Paraná;41002687;009;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;400;1;400
 2015;Paraná;41002741;003;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;1200;1;1200
@@ -1216,7 +1216,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Acre;12000930;011;Realizada;3;2;Casa;3;1;Próprio – já pago;0;0;4;2;718;3;239
 2015;Acre;12000930;012;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;1900;2;950
 2015;Amazonas;13000110;002;Realizada;7;5;Casa;6;3;Próprio – já pago;0;0;4;4;1821;7;260
-2015;Amazonas;13000136;003;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;999999999999;2;999999999999
+2015;Amazonas;13000136;003;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;10;2;10
 2015;Amazonas;13000152;009;Realizada;3;3;Casa;6;2;Alugado;500;0;4;8;1800;3;600
 2015;Amazonas;13000187;001;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;3076;2;1538
 2015;Amazonas;13000241;003;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;8;2776;3;925
@@ -1347,7 +1347,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Tocantins;17001404;012;Realizada;2;2;Casa;3;1;Cedido por empregador;0;0;4;8;788;2;394
 2015;Tocantins;17001471;020;Realizada;4;4;Apartamento;7;2;Próprio – ainda pagando;0;2500;2;2;10800;4;2700
 2015;Maranhão;21000131;013;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;4;4;890;3;296
-2015;Maranhão;21000140;005;Realizada;7;3;Casa;6;3;Próprio – já pago;0;0;4;8;999999999999;7;999999999999
+2015;Maranhão;21000140;005;Realizada;7;3;Casa;6;3;Próprio – já pago;0;0;4;8;10;7;10
 2015;Maranhão;21000182;012;Realizada;5;5;Casa;6;3;Alugado;350;0;4;4;1560;5;312
 2015;Maranhão;21000190;025;Realizada;4;2;Casa;6;2;Cedido de outra forma;0;0;4;4;461;4;115
 2015;Maranhão;21000204;013;Realizada;4;1;Casa;3;1;Alugado;200;0;2;8;689;4;172
@@ -1424,7 +1424,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23002336;015;Realizada;3;3;N/A;0;0;NA;0;0; ; ;2788;3;929
 2015;Ceará;23002352;005;Realizada;1;1;Casa;4;1;Alugado;320;0;2;8;3000;1;3000
 2015;Ceará;23002379;012;Realizada;4;4;Casa;9;3;Próprio – já pago;0;0;2;2;1600;4;400
-2015;Ceará;23002387;002;Realizada;4;4;Casa;8;3;Próprio – já pago;0;0;2;8;999999999999;4;999999999999
+2015;Ceará;23002387;002;Realizada;4;4;Casa;8;3;Próprio – já pago;0;0;2;8;10;4;10
 2015;Ceará;23002441;011;Realizada;3;2;Apartamento;7;2;Próprio – já pago;0;0;4;8;2800;3;933
 2015;Ceará;23002450;011;Realizada;5;5;Casa;5;3;Alugado;800;0;2;2;10600;5;2120
 2015;Ceará;23002522;011;Realizada;2;2;Casa;4;1;Cedido de outra forma;0;0;2;8;3924;2;1962
@@ -1491,7 +1491,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pernambuco;26000733;008;Realizada;2;2;Casa;8;1;Próprio – já pago;0;0;4;8;2076;2;1038
 2015;Pernambuco;26000741;014;Realizada;3;3;Casa;8;3;Próprio – já pago;0;0;4;4;1378;3;459
 2015;Pernambuco;26000768;008;Realizada;7;6;Casa;7;6;Próprio – já pago;0;0;2;8;609;7;87
-2015;Pernambuco;26000768;014;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;4;4;999999999999;3;999999999999
+2015;Pernambuco;26000768;014;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;4;4;10;3;10
 2015;Pernambuco;26000830;013;Realizada;5;5;Casa;6;2;Próprio – já pago;0;0;2;8;3989;5;797
 2015;Pernambuco;26000954;008;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;788;2;394
 2015;Pernambuco;26001098;014;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;2;2;2776;1;2776
@@ -1533,7 +1533,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pernambuco;26004275;012;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;4;1576;3;525
 2015;Pernambuco;26004305;016;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;2;4;5700;1;5700
 2015;Pernambuco;26004330;006;Realizada;4;3;Casa;5;2;Alugado;280;0;2;4;870;4;217
-2015;Pernambuco;26004356;001;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;2;4;999999999999;4;999999999999
+2015;Pernambuco;26004356;001;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;2;4;10;4;10
 2015;Pernambuco;26004364;022;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;8;4240;4;1060
 2015;Pernambuco;26004429;002;Realizada;4;4;Casa;7;4;Próprio – já pago;0;0;4;2;2600;4;650
 2015;Pernambuco;26004470;002;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;2;8;910;2;455
@@ -1635,7 +1635,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Bahia;29005752;001;Realizada;4;3;Casa;6;3;Próprio – já pago;0;0;2;8;2050;4;512
 2015;Bahia;29005957;013;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;8;100;2;50
 2015;Bahia;29005981;002;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;2;2100;2;1050
-2015;Bahia;29006066;015;Realizada;3;3;Apartamento;6;2;Alugado;1000;0;2;2;999999999999;3;999999999999
+2015;Bahia;29006066;015;Realizada;3;3;Apartamento;6;2;Alugado;1000;0;2;2;10;3;10
 2015;Bahia;29006287;012;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;4;8;3814;5;762
 2015;Bahia;29006368;005;Realizada;1;1;Apartamento;5;1;Próprio – já pago;0;0;4;8;1800;1;1800
 2015;Bahia;29006651;012;Realizada;2;2;Casa;6;1;Alugado;80;0;2;4;760;2;380
@@ -1753,7 +1753,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31007996;025;Realizada;1;1;Apartamento;5;1;Cedido de outra forma;0;0;4;8;890;1;890
 2015;Minas Gerais;31008020;003;Realizada;1;1;Casa;5;1;Alugado;600;0;4;2;7000;1;7000
 2015;Espírito Santo;32000073;005;Realizada;3;2;Casa;4;1;Alugado;500;0;2;8;2700;3;900
-2015;Espírito Santo;32000162;013;Realizada;3;3;Casa;8;3;Próprio – já pago;0;0;4;2;999999999999;3;999999999999
+2015;Espírito Santo;32000162;013;Realizada;3;3;Casa;8;3;Próprio – já pago;0;0;4;2;10;3;10
 2015;Espírito Santo;32000367;009;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;2;8;814;3;271
 2015;Espírito Santo;32000383;010;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;8;1500;3;500
 2015;Espírito Santo;32000413;004;Realizada;1;1;Casa;6;1;Alugado;300;0;4;8;1576;1;1576
@@ -1809,7 +1809,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33001812;006;Realizada;4;3;Casa;6;2;Próprio – já pago;0;0;2;8;1800;4;450
 2015;Rio de Janeiro;33001987;003;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;2;2;3000;3;1000
 2015;Rio de Janeiro;33001995;004;Realizada;2;2;Casa;2;1;Próprio – já pago;0;0;4;8;1200;2;600
-2015;Rio de Janeiro;33002100;005;Realizada;1;1;Apartamento;7;1;Próprio – já pago;0;0;2;2;999999999999;1;999999999999
+2015;Rio de Janeiro;33002100;005;Realizada;1;1;Apartamento;7;1;Próprio – já pago;0;0;2;2;10;1;10
 2015;Rio de Janeiro;33002401;012;Realizada;2;1;Apartamento;6;2;Alugado;700;0;2;8;1600;2;800
 2015;Rio de Janeiro;33002479;008;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;2;2;1500;5;300
 2015;Rio de Janeiro;33002509;013;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;2;2188;4;547
@@ -1822,8 +1822,8 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33003270;010;Realizada;2;2;Apartamento;4;1;Próprio – já pago;0;0;2;8;3280;2;1640
 2015;Rio de Janeiro;33003408;013;Realizada;1;1;Apartamento;4;1;Próprio – já pago;0;0;2;8;4000;1;4000
 2015;Rio de Janeiro;33003459;001;Realizada;2;2;Apartamento;6;1;Próprio – já pago;0;0;2;2;4200;2;2100
-2015;Rio de Janeiro;33003491;003;Realizada;3;2;Apartamento;10;2;Alugado;2500;0;2;2;999999999999;3;999999999999
-2015;Rio de Janeiro;33003548;002;Realizada;2;2;Apartamento;8;2;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;Rio de Janeiro;33003491;003;Realizada;3;2;Apartamento;10;2;Alugado;2500;0;2;2;10;3;10
+2015;Rio de Janeiro;33003548;002;Realizada;2;2;Apartamento;8;2;Próprio – já pago;0;0;2;2;10;2;10
 2015;Rio de Janeiro;33003572;003;Realizada;3;3;Apartamento;5;3;Alugado;2000;0;2;8;3000;2;1500
 2015;Rio de Janeiro;33003572;010;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;2;2000;2;1000
 2015;Rio de Janeiro;33003610;012;Realizada;4;4;Apartamento;7;3;Próprio – já pago;0;0;2;2;10900;4;2725
@@ -1885,7 +1885,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35000538;012;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;2;10700;3;3566
 2015;São Paulo;35000570;011;Realizada;2;2;Casa;22;1;Próprio – já pago;0;0;2;6;17500;2;8750
 2015;São Paulo;35000651;012;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;2;4500;4;1125
-2015;São Paulo;35000686;021;Realizada;4;4;Casa;9;3;Próprio – já pago;0;0;2;2;999999999999;4;999999999999
+2015;São Paulo;35000686;021;Realizada;4;4;Casa;9;3;Próprio – já pago;0;0;2;2;10;4;10
 2015;São Paulo;35000694;016;Realizada;4;4;Apartamento;7;3;Próprio – já pago;0;0;2;2;11000;4;2750
 2015;São Paulo;35000708;013;Realizada;6;4;Casa;8;2;Cedido por empregador;0;0;2;2;3900;6;650
 2015;São Paulo;35000767;001;Realizada;3;3;Casa;10;2;Próprio – já pago;0;0;4;4;1000;3;333
@@ -1903,7 +1903,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35001453;033;Realizada;2;2;Apartamento;5;1;Próprio – ainda pagando;0;812;2;2;3400;2;1700
 2015;São Paulo;35001461;008;Realizada;4;3;Casa;5;2;Alugado;650;0;2;2;5400;4;1350
 2015;São Paulo;35001631;009;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;2;8;3000;2;1500
-2015;São Paulo;35001763;002;Realizada;3;3;Casa;8;3;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35001763;002;Realizada;3;3;Casa;8;3;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35001763;010;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;2;21060;4;5265
 2015;São Paulo;35001836;012;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;2250;1;2250
 2015;São Paulo;35001852;005;Realizada;3;3;Casa;5;2;Alugado;550;0;2;2;0;3;0
@@ -1912,7 +1912,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35002174;019;Realizada;3;2;Casa;3;1;Próprio – já pago;0;0;2;6;1612;3;537
 2015;São Paulo;35002280;005;Realizada;2;2;Casa;11;1;Próprio – já pago;0;0;2;2;4588;2;2294
 2015;São Paulo;35002506;002;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;8;1600;1;1600
-2015;São Paulo;35002646;008;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;2;2;999999999999;4;999999999999
+2015;São Paulo;35002646;008;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;2;2;10;4;10
 2015;São Paulo;35002646;014;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;2;6;3648;5;729
 2015;São Paulo;35002670;005;Realizada;2;2;Casa;2;1;Próprio – já pago;0;0;4;8;1510;2;755
 2015;São Paulo;35002727;014;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;1240;2;620
@@ -1921,13 +1921,13 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35002905;011;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;2364;2;1182
 2015;São Paulo;35003138;014;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;2;3900;4;975
 2015;São Paulo;35003170;005;Realizada;5;3;Casa;5;2;Próprio – ainda pagando;0;150;2;2;4180;5;836
-2015;São Paulo;35003197;003;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;8;999999999999;2;999999999999
+2015;São Paulo;35003197;003;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;8;10;2;10
 2015;São Paulo;35003367;011;Realizada;2;2;Casa;8;1;Próprio – já pago;0;0;2;2;16500;2;8250
 2015;São Paulo;35003375;009;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;2;2;11400;2;5700
 2015;São Paulo;35003391;003;Realizada;4;3;Casa;7;2;Próprio – ainda pagando;0;600;2;2;2588;4;647
 2015;São Paulo;35003421;012;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;1576;1;1576
-2015;São Paulo;35003464;019;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;8;999999999999;3;999999999999
-2015;São Paulo;35003618;023;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35003464;019;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;8;10;3;10
+2015;São Paulo;35003618;023;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35003626;014;Realizada;4;4;Casa;4;3;Próprio – já pago;0;0;2;2;5800;4;1450
 2015;São Paulo;35003677;008;Realizada;3;2;Casa;7;2;Alugado;721;0;4;2;10000;3;3333
 2015;São Paulo;35003707;009;Realizada;6;3;Casa;5;2;Próprio – já pago;0;0;4;8;1500;6;250
@@ -1969,7 +1969,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35006749;002;Realizada;3;2;Casa;8;2;Próprio – já pago;0;0;2;2;7000;3;2333
 2015;São Paulo;35006781;022;Realizada;5;4;Casa;4;2;Próprio – já pago;0;0;2;2;3188;5;637
 2015;São Paulo;35006820;010;Realizada;5;5;Casa;6;2;Próprio – já pago;0;0;2;8;7000;5;1400
-2015;São Paulo;35006838;016;Realizada;3;2;Casa;9;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35006838;016;Realizada;3;2;Casa;9;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35006889;005;Realizada;2;2;Apartamento;7;1;Próprio – já pago;0;0;2;8;2788;2;1394
 2015;São Paulo;35006978;009;Realizada;2;2;Apartamento;5;2;Próprio – ainda pagando;0;430;2;2;9300;2;4650
 2015;São Paulo;35007117;005;Realizada;4;2;Apartamento;5;2;Próprio – ainda pagando;0;214;2;2;1000;4;250
@@ -1981,11 +1981,11 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35007451;015;Realizada;1;1;Casa;10;1;Próprio – já pago;0;0;2;2;2400;1;2400
 2015;São Paulo;35007494;013;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;8;838;2;419
 2015;São Paulo;35007508;016;Realizada;3;2;Casa;3;1;Próprio – já pago;0;0;2;2;2100;3;700
-2015;São Paulo;35007583;004;Realizada;3;3;Casa;2;1;Alugado;999999999999;0;2;8;800;3;266
+2015;São Paulo;35007583;004;Realizada;3;3;Casa;2;1;Alugado;10;0;2;8;800;3;266
 2015;São Paulo;35007583;015;Realizada;1;1;Apartamento;6;1;Próprio – já pago;0;0;2;8;2000;1;2000
 2015;São Paulo;35007591;016;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;São Paulo;35007664;015;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;2;5000;2;2500
-2015;São Paulo;35007770;004;Realizada;5;4;Casa;4;2;Próprio – já pago;0;0;4;8;999999999999;5;999999999999
+2015;São Paulo;35007770;004;Realizada;5;4;Casa;4;2;Próprio – já pago;0;0;4;8;10;5;10
 2015;São Paulo;35007923;007;Realizada;3;2;Apartamento;5;2;Próprio – ainda pagando;0;210;2;2;3364;3;1121
 2015;São Paulo;35008105;014;Realizada;3;3;Casa;3;2;Próprio – ainda pagando;0;380;2;8;2500;3;833
 2015;São Paulo;35008245;011;Realizada;4;4;Apartamento;8;3;Próprio – já pago;0;0;2;2;17000;4;4250
@@ -2095,7 +2095,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42000777;006;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;6;1930;3;643
 2015;Santa Catarina;42000858;011;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;2300;2;1150
 2015;Santa Catarina;42000904;016;Realizada;3;2;Casa;7;2;Próprio – já pago;0;0;2;8;3500;3;1166
-2015;Santa Catarina;42001030;011;Realizada;3;3;Casa;11;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Santa Catarina;42001030;011;Realizada;3;3;Casa;11;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;Santa Catarina;42001161;003;Realizada;3;3;Casa;4;2;Alugado;500;0;2;8;3895;3;1298
 2015;Santa Catarina;42001277;012;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;2;3076;3;1025
 2015;Santa Catarina;42001285;010;Realizada;1;1;Casa;14;1;Próprio – ainda pagando;0;1050;2;2;4000;1;4000
@@ -2109,7 +2109,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42002206;003;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;2;1400;2;700
 2015;Santa Catarina;42002702;012;Realizada;4;4;Casa;5;2;Alugado;450;0;4;2;2900;4;725
 2015;Santa Catarina;42002710;012;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;2;1576;3;525
-2015;Santa Catarina;42002737;004;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;2;999999999999;3;999999999999
+2015;Santa Catarina;42002737;004;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;2;10;3;10
 2015;Rio Grande do Sul;43000010;015;Realizada;2;2;Apartamento;5;1;Alugado;690;0;2;2;4600;2;2300
 2015;Rio Grande do Sul;43000029;012;Realizada;3;2;Casa;4;2;Cedido de outra forma;0;0;4;8;230;3;76
 2015;Rio Grande do Sul;43000088;014;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;4;8;2616;4;654
@@ -2130,7 +2130,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43001777;004;Realizada;2;2;Casa;5;1;Próprio – ainda pagando;0;480;2;2;3200;2;1600
 2015;Rio Grande do Sul;43001793;006;Realizada;3;2;Casa;7;3;Próprio – já pago;0;0;2;2;7600;3;2533
 2015;Rio Grande do Sul;43001807;007;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;2;2331;2;1165
-2015;Rio Grande do Sul;43001882;008;Realizada;6;5;Casa;6;3;Próprio – já pago;0;0;2;2;999999999999;6;999999999999
+2015;Rio Grande do Sul;43001882;008;Realizada;6;5;Casa;6;3;Próprio – já pago;0;0;2;2;10;6;10
 2015;Rio Grande do Sul;43001890;011;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;8;2100;2;1050
 2015;Rio Grande do Sul;43002030;018;Realizada;6;4;Casa;6;2;Alugado;500;0;4;2;3103;6;517
 2015;Rio Grande do Sul;43002064;007;Realizada;5;5;Casa;11;4;Próprio – já pago;0;0;2;6;5788;5;1157
@@ -2147,7 +2147,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43003060;006;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;2;1068;1;1068
 2015;Rio Grande do Sul;43003095;011;Realizada;2;2;Casa;11;1;Próprio – já pago;0;0;2;2;3600;2;1800
 2015;Rio Grande do Sul;43003168;007;Realizada;4;2;Casa;8;3;Alugado;1300;0;2;2;5000;4;1250
-2015;Rio Grande do Sul;43003257;003;Realizada;2;2;Apartamento;9;1;Alugado;999999999999;0;2;8;4050;2;2025
+2015;Rio Grande do Sul;43003257;003;Realizada;2;2;Apartamento;9;1;Alugado;10;0;2;8;4050;2;2025
 2015;Rio Grande do Sul;43003281;008;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;6;3500;3;1166
 2015;Rio Grande do Sul;43003338;008;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;3400;2;1700
 2015;Rio Grande do Sul;43003524;010;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;2;2576;3;858
@@ -2243,7 +2243,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Mato Grosso;51000776;005;Realizada;2;2;Casa;4;2;Próprio – já pago;0;0;4;2;2600;2;1300
 2015;Mato Grosso;51000814;010;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;2;7000;4;1750
 2015;Mato Grosso;51000849;012;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;1500;2;750
-2015;Mato Grosso;51000920;012;Realizada;3;2;Casa;5;2;Alugado;600;0;2;4;999999999999;3;999999999999
+2015;Mato Grosso;51000920;012;Realizada;3;2;Casa;5;2;Alugado;600;0;2;4;10;3;10
 2015;Mato Grosso;51000920;014;Realizada;2;2;Casa;5;1;Alugado;1000;0;4;2;2000;2;1000
 2015;Mato Grosso;51001039;002;Realizada;3;2;Casa;7;2;Próprio – já pago;0;0;4;2;3000;3;1000
 2015;Mato Grosso;51001160;009;Realizada;3;1;Casa;5;2;Próprio – já pago;0;0;4;8;910;3;303
@@ -2266,7 +2266,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Goiás;52000184;007;Realizada;3;2;Casa;7;2;Próprio – já pago;0;0;2;6;7700;3;2566
 2015;Goiás;52000214;001;Realizada;3;3;Casa;5;2;Alugado;788;0;2;8;4000;3;1333
 2015;Goiás;52000354;009;Realizada;2;2;Casa;7;1;Próprio – ainda pagando;0;310;2;2;6300;2;3150
-2015;Goiás;52000435;009;Realizada;1;1;Casa;6;1;Próprio – ainda pagando;0;286;4;8;999999999999;1;999999999999
+2015;Goiás;52000435;009;Realizada;1;1;Casa;6;1;Próprio – ainda pagando;0;286;4;8;10;1;10
 2015;Goiás;52000478;011;Realizada;2;2;Casa;4;1;Alugado;300;0;4;8;2364;2;1182
 2015;Goiás;52000516;008;Realizada;3;3;Casa;4;2;Alugado;500;0;2;2;4000;3;1333
 2015;Goiás;52000540;012;Realizada;5;5;Casa;6;2;Próprio – já pago;0;0;2;2;7400;5;1480
@@ -2330,7 +2330,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Distrito Federal;53001060;008;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;8;6500;3;2166
 2015;Distrito Federal;53001150;003;Realizada;5;3;Casa;6;2;Próprio – já pago;0;0;2;2;2500;5;500
 2015;Distrito Federal;53001150;004;Realizada;6;1;Casa;4;1;Alugado;400;0;2;8;150;6;25
-2015;Distrito Federal;53001206;013;Realizada;5;3;Casa;5;2;Alugado;999999999999;0;2;8;1576;5;315
+2015;Distrito Federal;53001206;013;Realizada;5;3;Casa;5;2;Alugado;10;0;2;8;1576;5;315
 2015;Distrito Federal;53001362;008;Realizada;3;3;Casa;5;2;Alugado;800;0;2;2;4000;3;1333
 2015;Distrito Federal;53001397;001;Realizada;5;5;Casa;9;4;Próprio – já pago;0;0;2;6;9788;5;1957
 2015;Distrito Federal;53001400;016;Realizada;1;1;N/A;0;0;NA;0;0; ; ;1100;1;1100
@@ -2453,7 +2453,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pará;15001865;015;Realizada;5;5;Casa;9;4;Próprio – já pago;0;0;2;6;23600;5;4720
 2015;Pará;15001989;010;Realizada;1;1;Casa;2;1;Alugado;80;0;4;8;1088;1;1088
 2015;Pará;15002012;014;Realizada;3;2;Casa;3;1;Próprio – já pago;0;0;4;8;1488;3;496
-2015;Pará;15002047;003;Realizada;1;1;Casa;2;1;Próprio – já pago;0;0;4;2;999999999999;1;999999999999
+2015;Pará;15002047;003;Realizada;1;1;Casa;2;1;Próprio – já pago;0;0;4;2;10;1;10
 2015;Pará;15002144;013;Realizada;3;2;Casa;5;1;Próprio – já pago;0;0;2;8;900;3;300
 2015;Pará;15002578;008;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;4;8;820;5;164
 2015;Pará;15002683;015;Realizada;2;2;Casa;4;1;Alugado;300;0;2;8;788;2;394
@@ -2584,7 +2584,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23000929;009;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;4;8;1188;3;396
 2015;Ceará;23000937;017;Realizada;3;3;Casa;6;2;Alugado;300;0;2;8;1976;3;658
 2015;Ceará;23001186;004;Realizada;3;3;Casa;10;2;Próprio – já pago;0;0;2;2;4000;3;1333
-2015;Ceará;23001291;001;Realizada;4;4;Casa;16;3;Próprio – já pago;0;0;2;2;999999999999;4;999999999999
+2015;Ceará;23001291;001;Realizada;4;4;Casa;16;3;Próprio – já pago;0;0;2;2;10;4;10
 2015;Ceará;23001402;008;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;8;2050;3;683
 2015;Ceará;23001453;009;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;8;1300;3;433
 2015;Ceará;23001569;019;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;2;4;0;2;0
@@ -2592,7 +2592,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23001801;007;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;8;867;2;433
 2015;Ceará;23001852;003;Realizada;1;1;Casa;5;1;Alugado;850;0;2;2;6000;1;6000
 2015;Ceará;23001860;004;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;2;2;1678;1;1678
-2015;Ceará;23001909;016;Realizada;3;2;Apartamento;4;2;Alugado;290;0;4;8;999999999999;3;999999999999
+2015;Ceará;23001909;016;Realizada;3;2;Apartamento;4;2;Alugado;290;0;4;8;10;3;10
 2015;Ceará;23001950;008;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;8;1300;2;650
 2015;Ceará;23002115;014;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;4;8;2576;3;858
 2015;Ceará;23002123;006;Realizada;4;4;Casa;9;3;Próprio – já pago;0;0;2;2;29000;4;7250
@@ -2697,7 +2697,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pernambuco;26004216;004;Realizada;3;3;Apartamento;8;3;Próprio – já pago;0;0;2;2;11200;3;3733
 2015;Pernambuco;26004232;005;Realizada;3;3;Casa;9;3;Alugado;1200;0;2;8;6000;3;2000
 2015;Pernambuco;26004488;009;Realizada;2;2;Casa;6;1;Alugado;750;0;2;8;3950;2;1975
-2015;Pernambuco;26004526;003;Realizada;4;4;Casa;7;4;Próprio – já pago;0;0;2;8;999999999999;4;999999999999
+2015;Pernambuco;26004526;003;Realizada;4;4;Casa;7;4;Próprio – já pago;0;0;2;8;10;4;10
 2015;Pernambuco;26004666;004;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;8;1940;2;970
 2015;Pernambuco;26004682;012;Realizada;2;2;Casa;6;2;Alugado;700;0;4;8;1800;2;900
 2015;Pernambuco;26004704;007;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;4;8;377;4;94
@@ -2901,7 +2901,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31003931;009;Realizada;3;2;Casa;9;2;Cedido de outra forma;0;0;2;2;5200;3;1733
 2015;Minas Gerais;31004032;003;Realizada;3;2;Casa;6;2;Próprio – ainda pagando;0;3000;2;6;10530;3;3510
 2015;Minas Gerais;31004067;011;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;1576;2;788
-2015;Minas Gerais;31004180;009;Realizada;1;1;Casa;8;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;Minas Gerais;31004180;009;Realizada;1;1;Casa;8;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;Minas Gerais;31004245;017;Realizada;3;3;Casa;9;3;Próprio – já pago;0;0;2;6;1576;3;525
 2015;Minas Gerais;31004326;003;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;4;8;3076;2;1538
 2015;Minas Gerais;31004369;006;Realizada;3;3;Casa;7;1;Próprio – já pago;0;0;4;4;1388;3;462
@@ -2971,7 +2971,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Espírito Santo;32001479;004;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;8;788;2;394
 2015;Espírito Santo;32001517;015;Realizada;6;6;Apartamento;9;4;Próprio – já pago;0;0;2;2;6288;6;1048
 2015;Espírito Santo;32001533;006;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;2;8;2895;2;1447
-2015;Espírito Santo;32001754;015;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;4;8;999999999999;3;999999999999
+2015;Espírito Santo;32001754;015;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;4;8;10;3;10
 2015;Espírito Santo;32001789;012;Realizada;2;2;Apartamento;9;1;Próprio – já pago;0;0;2;2;9400;2;4700
 2015;Espírito Santo;32001835;007;Realizada;4;4;Apartamento;6;2;Alugado;1000;0;2;2;21200;4;5300
 2015;Espírito Santo;32001835;013;Realizada;1;1;Apartamento;5;1;Próprio – ainda pagando;0;600;2;8;4000;1;4000
@@ -3080,7 +3080,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35001240;007;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;2;6;4000;3;1333
 2015;São Paulo;35001429;003;Realizada;3;3;Casa;4;2;Alugado;500;0;2;6;3500;3;1166
 2015;São Paulo;35001445;021;Realizada;2;2;Casa;8;1;Próprio – já pago;0;0;2;2;3500;2;1750
-2015;São Paulo;35001461;003;Realizada;2;2;Apartamento;9;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;São Paulo;35001461;003;Realizada;2;2;Apartamento;9;1;Próprio – já pago;0;0;2;2;10;2;10
 2015;São Paulo;35001488;008;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;2100;3;700
 2015;São Paulo;35001577;001;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;2;788;1;788
 2015;São Paulo;35001577;012;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;2;2000;4;500
@@ -3164,17 +3164,17 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35006366;012;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;4;2;2700;4;675
 2015;São Paulo;35006374;013;Realizada;5;4;Casa;7;2;Próprio – já pago;0;0;2;2;2690;5;538
 2015;São Paulo;35006390;013;Realizada;2;2;Apartamento;5;1;Cedido por empregador;0;0;2;2;6000;2;3000
-2015;São Paulo;35006765;010;Realizada;3;3;Apartamento;6;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35006765;010;Realizada;3;3;Apartamento;6;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35006846;002;Realizada;3;2;Casa;3;1;Alugado;470;0;4;8;2300;3;766
 2015;São Paulo;35006919;001;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;4;8;3980;4;995
-2015;São Paulo;35007036;013;Realizada;4;4;Casa;3;1;Próprio – já pago;0;0;4;8;999999999999;4;999999999999
+2015;São Paulo;35007036;013;Realizada;4;4;Casa;3;1;Próprio – já pago;0;0;4;8;10;4;10
 2015;São Paulo;35007060;022;Realizada;4;3;Casa;6;3;Próprio – já pago;0;0;2;2;6200;4;1550
 2015;São Paulo;35007117;008;Realizada;3;2;Apartamento;5;2;Próprio – ainda pagando;0;174;2;8;2600;3;866
 2015;São Paulo;35007176;017;Realizada;5;4;Casa;5;2;Alugado;900;0;2;6;2400;5;480
-2015;São Paulo;35007320;015;Realizada;4;4;Casa;8;3;Próprio – já pago;0;0;2;2;999999999999;4;999999999999
+2015;São Paulo;35007320;015;Realizada;4;4;Casa;8;3;Próprio – já pago;0;0;2;2;10;4;10
 2015;São Paulo;35007354;013;Realizada;4;4;Casa;10;3;Próprio – já pago;0;0;2;2;4960;4;1240
 2015;São Paulo;35007354;018;Realizada;3;2;Casa;4;1;Próprio – já pago;0;0;2;2;2560;3;853
-2015;São Paulo;35007435;009;Realizada;2;2;Casa;5;2;Próprio – ainda pagando;0;999999999999;4;8;1100;2;550
+2015;São Paulo;35007435;009;Realizada;2;2;Casa;5;2;Próprio – ainda pagando;0;10;4;8;1100;2;550
 2015;São Paulo;35007605;013;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;2;5000;4;1250
 2015;São Paulo;35007680;015;Realizada;4;4;Apartamento;5;2;Próprio – ainda pagando;0;340;2;8;2738;4;684
 2015;São Paulo;35007729;005;Realizada;4;3;Casa;6;2;Próprio – já pago;0;0;2;2;1100;4;275
@@ -3208,7 +3208,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35008997;006;Realizada;2;2;Apartamento;5;1;Próprio – já pago;0;0;2;2;1905;2;952
 2015;São Paulo;35009039;001;Realizada;3;3;Casa;5;3;Próprio – já pago;0;0;2;8;5177;3;1725
 2015;São Paulo;35009039;008;Realizada;5;5;Casa;9;3;Alugado;2000;0;2;8;4880;5;976
-2015;São Paulo;35009071;012;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;São Paulo;35009071;012;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;São Paulo;35009080;003;Realizada;7;5;Apartamento;6;3;Próprio – ainda pagando;0;57;2;2;5335;7;762
 2015;São Paulo;35009365;004;Realizada;2;2;Casa;5;1;Alugado;400;0;4;6;2000;2;1000
 2015;São Paulo;35009390;007;Realizada;2;2;Apartamento;4;1;Próprio – já pago;0;0;2;8;3200;2;1600
@@ -3228,7 +3228,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35010029;017;Realizada;5;3;Casa;5;2;Próprio – já pago;0;0;4;4;1858;5;371
 2015;São Paulo;35010100;009;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;1600;2;800
 2015;São Paulo;35010150;001;Realizada;1;1;Casa;3;1;Alugado;500;0;2;8;1400;1;1400
-2015;São Paulo;35010169;011;Realizada;3;2;Casa;4;1;Cedido por empregador;0;0;2;4;999999999999;3;999999999999
+2015;São Paulo;35010169;011;Realizada;3;2;Casa;4;1;Cedido por empregador;0;0;2;4;10;3;10
 2015;São Paulo;35010240;007;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;8;900;2;450
 2015;São Paulo;35010240;014;Realizada;2;2;Casa;8;1;Próprio – já pago;0;0;2;2;4100;2;2050
 2015;São Paulo;35010274;015;Realizada;3;3;Casa;5;3;Próprio – já pago;0;0;2;2;4300;3;1433
@@ -3304,7 +3304,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraná;41003772;007;Realizada;4;4;Casa;5;3;Próprio – já pago;0;0;2;6;0;4;0
 2015;Paraná;41003845;003;Realizada;4;4;Casa;23;3;Próprio – já pago;0;0;2;2;12000;4;3000
 2015;Paraná;41004159;015;Realizada;3;3;Casa;10;2;Próprio – já pago;0;0;2;2;3500;3;1166
-2015;Paraná;41004191;009;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;999999999999;2;999999999999
+2015;Paraná;41004191;009;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;10;2;10
 2015;Paraná;41004213;019;Realizada;4;3;Casa;8;2;Próprio – já pago;0;0;2;2;4300;4;1075
 2015;Paraná;41004221;009;Realizada;1;1;Casa;8;1;Próprio – já pago;0;0;4;8;1576;1;1576
 2015;Paraná;41004388;003;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;1576;2;788
@@ -3326,7 +3326,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42001730;006;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;2;2;16860;2;8430
 2015;Santa Catarina;42001846;002;Realizada;4;4;Casa;4;2;Próprio – já pago;0;0;2;2;2576;4;644
 2015;Santa Catarina;42001978;011;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;2;5200;3;1733
-2015;Santa Catarina;42002001;012;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;8;999999999999;3;999999999999
+2015;Santa Catarina;42002001;012;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;8;10;3;10
 2015;Santa Catarina;42002133;015;Realizada;4;3;Casa;10;3;Próprio – já pago;0;0;4;2;1788;4;447
 2015;Santa Catarina;42002176;002;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;1788;2;894
 2015;Santa Catarina;42002354;020;Realizada;2;2;Casa;4;2;Próprio – já pago;0;0;4;8;1688;2;844
@@ -3355,7 +3355,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43000940;008;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;2;2;2000;4;500
 2015;Rio Grande do Sul;43000967;010;Realizada;3;3;Casa;4;2;Alugado;600;0;2;8;2850;3;950
 2015;Rio Grande do Sul;43000991;010;Realizada;1;1;Apartamento;5;1;Próprio – ainda pagando;0;350;4;8;788;1;788
-2015;Rio Grande do Sul;43001009;005;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;6;999999999999;2;999999999999
+2015;Rio Grande do Sul;43001009;005;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;6;10;2;10
 2015;Rio Grande do Sul;43001025;014;Realizada;4;2;Casa;6;2;Próprio – já pago;0;0;2;2;6000;4;1500
 2015;Rio Grande do Sul;43001033;005;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;4488;2;2244
 2015;Rio Grande do Sul;43001084;004;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;1000;2;500
@@ -3367,7 +3367,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43001939;002;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;Rio Grande do Sul;43002056;003;Realizada;2;2;Apartamento;7;2;Cedido de outra forma;0;0;2;2;3379;2;1689
 2015;Rio Grande do Sul;43002072;015;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;1576;1;1576
-2015;Rio Grande do Sul;43002188;003;Realizada;3;3;Casa;5;2;Próprio – ainda pagando;0;999999999999;4;2;2900;3;966
+2015;Rio Grande do Sul;43002188;003;Realizada;3;3;Casa;5;2;Próprio – ainda pagando;0;10;4;2;2900;3;966
 2015;Rio Grande do Sul;43002250;012;Realizada;4;4;Casa;10;4;Próprio – já pago;0;0;2;2;4200;4;1050
 2015;Rio Grande do Sul;43002463;012;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;2;4750;3;1583
 2015;Rio Grande do Sul;43002579;007;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;2;1475;3;491
@@ -3438,7 +3438,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Mato Grosso do Sul;50000977;017;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;6;1500;2;750
 2015;Mato Grosso do Sul;50001140;009;Realizada;4;3;Casa;9;2;Próprio – já pago;0;0;2;2;3952;4;988
 2015;Mato Grosso do Sul;50001205;011;Realizada;4;2;Casa;6;2;Próprio – já pago;0;0;2;4;1500;4;375
-2015;Mato Grosso do Sul;50001272;012;Realizada;3;2;Casa;9;2;Alugado;999999999999;0;2;2;200;3;66
+2015;Mato Grosso do Sul;50001272;012;Realizada;3;2;Casa;9;2;Alugado;10;0;2;2;200;3;66
 2015;Mato Grosso do Sul;50001345;008;Realizada;6;5;Casa;5;3;Próprio – já pago;0;0;2;4;5420;6;903
 2015;Mato Grosso do Sul;50001400;016;Realizada;4;3;Casa;6;3;Próprio – já pago;0;0;2;2;8800;4;2200
 2015;Mato Grosso do Sul;50001558;013;Realizada;4;4;Casa;5;1;Próprio – já pago;0;0;2;2;2588;4;647
@@ -3460,7 +3460,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Mato Grosso;51001365;016;Realizada;2;2;Apartamento;3;1;Alugado;750;0;2;4;2500;2;1250
 2015;Mato Grosso;51001497;013;Realizada;2;2;Casa;6;1;Cedido por empregador;0;0;4;2;3200;2;1600
 2015;Mato Grosso;51001527;013;Realizada;5;4;Casa;5;3;Próprio – já pago;0;0;2;2;2300;5;460
-2015;Mato Grosso;51001551;003;Realizada;4;3;Casa;5;2;Próprio – ainda pagando;0;163;2;6;999999999999;4;999999999999
+2015;Mato Grosso;51001551;003;Realizada;4;3;Casa;5;2;Próprio – ainda pagando;0;163;2;6;10;4;10
 2015;Mato Grosso;51001721;006;Realizada;4;2;Casa;5;2;Próprio – já pago;0;0;4;8;1646;4;411
 2015;Mato Grosso;51001942;015;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;4;8;1788;2;894
 2015;Mato Grosso;51002043;010;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;4;2;1420;3;473
@@ -3584,7 +3584,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Amazonas;13000110;007;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;Amazonas;13000276;004;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;8;968;3;322
 2015;Amazonas;13000276;013;Realizada;6;4;Casa;3;2;Próprio – já pago;0;0;4;4;310;6;51
-2015;Amazonas;13000519;004;Realizada;10;9;Casa;7;4;Próprio – já pago;0;0;4;8;999999999999;10;999999999999
+2015;Amazonas;13000519;004;Realizada;10;9;Casa;7;4;Próprio – já pago;0;0;4;8;10;10;10
 2015;Amazonas;13000683;008;Realizada;5;4;Apartamento;4;2;Alugado;500;0;2;8;2780;5;556
 2015;Amazonas;13000764;003;Realizada;1;1;Casa;2;1;Alugado;350;0;4;2;2000;1;2000
 2015;Amazonas;13000799;012;Realizada;3;3;Apartamento;7;2;Alugado;600;0;2;2;5788;3;1929
@@ -3652,7 +3652,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pará;15002691;015;Realizada;2;2;Apartamento;3;1;Alugado;150;0;2;8;788;2;394
 2015;Pará;15002748;016;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;2;8;1639;4;409
 2015;Pará;15002969;006;Realizada;7;6;Casa;3;1;Próprio – já pago;0;0;2;8;1236;7;176
-2015;Pará;15002993;004;Realizada;4;4;Casa;3;2;Próprio – já pago;0;0;4;8;999999999999;4;999999999999
+2015;Pará;15002993;004;Realizada;4;4;Casa;3;2;Próprio – já pago;0;0;4;8;10;4;10
 2015;Pará;15003043;008;Realizada;5;5;Casa;3;2;Próprio – já pago;0;0;4;4;77;5;15
 2015;Pará;15003310;013;Realizada;5;2;Casa;7;2;Alugado;180;0;4;8;682;5;136
 2015;Pará;15003426;004;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;4;4;948;2;474
@@ -3758,7 +3758,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23000147;008;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;55;2;27
 2015;Ceará;23000163;017;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;6;5088;4;1272
 2015;Ceará;23000180;014;Realizada;4;3;Casa;5;3;Próprio – já pago;0;0;4;4;888;4;222
-2015;Ceará;23000236;015;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;4;8;999999999999;2;999999999999
+2015;Ceará;23000236;015;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;4;8;10;2;10
 2015;Ceará;23000260;007;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;4;8;2670;3;890
 2015;Ceará;23000260;014;Realizada;1;1;Casa;3;1;Cedido por empregador;0;0;2;6;788;1;788
 2015;Ceará;23000341;009;Realizada;4;3;Casa;7;2;Próprio – já pago;0;0;2;8;2188;4;547
@@ -3781,7 +3781,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23002115;015;Realizada;4;4;Casa;6;4;Próprio – já pago;0;0;2;6;10000;4;2500
 2015;Ceará;23002174;003;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;300;1;300
 2015;Ceará;23002174;017;Realizada;3;2;Casa;3;1;Alugado;200;0;4;8;1735;3;578
-2015;Ceará;23002301;002;Realizada;5;5;Casa;6;4;Próprio – já pago;0;0;2;8;999999999999;5;999999999999
+2015;Ceará;23002301;002;Realizada;5;5;Casa;6;4;Próprio – já pago;0;0;2;8;10;5;10
 2015;Ceará;23002409;008;Realizada;4;3;Casa;6;2;Alugado;350;0;4;8;800;4;200
 2015;Ceará;23002581;011;Realizada;4;4;Casa;5;2;Cedido de outra forma;0;0;4;8;1657;4;414
 2015;Ceará;23002719;016;Realizada;2;2;Apartamento;7;2;Alugado;850;0;2;2;3200;2;1600
@@ -4056,9 +4056,9 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31000509;012;Realizada;2;2;Apartamento;9;1;Próprio – já pago;0;0;2;2;19400;2;9700
 2015;Minas Gerais;31000592;009;Realizada;4;4;Apartamento;9;3;Próprio – já pago;0;0;2;2;13400;4;3350
 2015;Minas Gerais;31000738;004;Realizada;4;2;Apartamento;12;3;Próprio – já pago;0;0;2;2;20000;4;5000
-2015;Minas Gerais;31000835;010;Realizada;2;2;Casa;6;1;Próprio – ainda pagando;0;999999999999;2;2;1400;2;700
+2015;Minas Gerais;31000835;010;Realizada;2;2;Casa;6;1;Próprio – ainda pagando;0;10;2;2;1400;2;700
 2015;Minas Gerais;31000886;005;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;2;9788;3;3262
-2015;Minas Gerais;31000991;012;Realizada;2;2;Apartamento;5;1;Alugado;999999999999;0;2;8;3000;2;1500
+2015;Minas Gerais;31000991;012;Realizada;2;2;Apartamento;5;1;Alugado;10;0;2;8;3000;2;1500
 2015;Minas Gerais;31001203;001;Realizada;3;3;Casa;11;2;Próprio – já pago;0;0;2;2;8800;3;2933
 2015;Minas Gerais;31001408;013;Realizada;4;2;Casa;5;2;Próprio – já pago;0;0;2;2;1988;4;497
 2015;Minas Gerais;31001440;004;Realizada;2;2;Casa;5;2;Cedido de outra forma;0;0;2;8;1238;2;619
@@ -4138,7 +4138,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31007104;010;Realizada;5;5;Casa;8;4;Cedido por empregador;0;0;4;8;2376;5;475
 2015;Minas Gerais;31007139;008;Realizada;3;2;Casa;6;1;Próprio – já pago;0;0;4;4;400;3;133
 2015;Minas Gerais;31007317;001;Realizada;7;5;Casa;6;3;Próprio – já pago;0;0;2;2;4006;7;572
-2015;Minas Gerais;31007473;004;Realizada;6;4;Casa;6;3;Alugado;780;0;4;2;999999999999;6;999999999999
+2015;Minas Gerais;31007473;004;Realizada;6;4;Casa;6;3;Alugado;780;0;4;2;10;6;10
 2015;Minas Gerais;31007597;007;Realizada;2;2;Casa;10;1;Próprio – já pago;0;0;4;2;1200;2;600
 2015;Minas Gerais;31007651;003;Realizada;2;2;Casa;12;2;Próprio – já pago;0;0;4;8;2888;2;1444
 2015;Minas Gerais;31007767;005;Realizada;2;2;Casa;8;2;Alugado;550;0;2;8;1250;2;625
@@ -4159,7 +4159,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Espírito Santo;32000820;010;Realizada;2;2;Casa;5;1;Cedido por empregador;0;0;2;4;1600;2;800
 2015;Espírito Santo;32000847;004;Realizada;3;2;Casa;5;3;Alugado;250;0;2;8;171;3;57
 2015;Espírito Santo;32000936;007;Realizada;4;3;Casa;6;2;Próprio – já pago;0;0;2;6;2400;4;600
-2015;Espírito Santo;32001053;006;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;4;6;999999999999;2;999999999999
+2015;Espírito Santo;32001053;006;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;4;6;10;2;10
 2015;Espírito Santo;32001070;004;Realizada;2;2;Casa;7;1;Alugado;500;0;2;6;2880;2;1440
 2015;Espírito Santo;32001150;009;Realizada;3;2;Casa;11;2;Próprio – ainda pagando;0;2000;2;2;8000;3;2666
 2015;Espírito Santo;32001258;002;Realizada;8;5;Casa;6;3;Próprio – já pago;0;0;2;8;2923;8;365
@@ -4178,7 +4178,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33000700;013;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;2;1000;2;500
 2015;Rio de Janeiro;33000794;008;Realizada;3;3;Casa;6;2;Cedido de outra forma;0;0;2;2;2288;3;762
 2015;Rio de Janeiro;33000891;015;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;8;2200;3;733
-2015;Rio de Janeiro;33000921;004;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;8;999999999999;1;999999999999
+2015;Rio de Janeiro;33000921;004;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;8;10;1;10
 2015;Rio de Janeiro;33001006;007;Realizada;7;7;Casa;3;2;Próprio – já pago;0;0;2;6;3538;7;505
 2015;Rio de Janeiro;33001111;010;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;Rio de Janeiro;33001120;005;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;8;1800;2;900
@@ -4209,14 +4209,14 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33003084;010;Realizada;1;1;Casa;6;1;Alugado;1200;0;2;2;1000;1;1000
 2015;Rio de Janeiro;33003211;015;Realizada;1;1;Apartamento;5;1;Próprio – já pago;0;0;4;8;3500;1;3500
 2015;Rio de Janeiro;33003262;013;Realizada;1;1;Apartamento;8;1;Próprio – já pago;0;0;2;2;14000;1;14000
-2015;Rio de Janeiro;33003319;008;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;8;999999999999;3;999999999999
+2015;Rio de Janeiro;33003319;008;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;8;10;3;10
 2015;Rio de Janeiro;33003416;009;Realizada;1;1;Apartamento;9;1;Próprio – já pago;0;0;2;8;10000;1;10000
 2015;Rio de Janeiro;33003459;005;Realizada;2;2;Apartamento;11;2;Próprio – já pago;0;0;2;2;26000;2;13000
 2015;Rio de Janeiro;33003521;005;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;4200;1;4200
 2015;Rio de Janeiro;33003572;008;Realizada;2;2;Apartamento;7;1;Próprio – já pago;0;0;2;8;11000;2;5500
 2015;Rio de Janeiro;33003670;008;Realizada;2;2;Apartamento;6;1;Alugado;3500;0;2;2;19200;2;9600
 2015;Rio de Janeiro;33003700;013;Realizada;1;1;Apartamento;4;1;Alugado;1000;0;2;2;4600;1;4600
-2015;Rio de Janeiro;33003785;013;Realizada;4;4;Casa;4;1;Próprio – já pago;0;0;2;2;999999999999;4;999999999999
+2015;Rio de Janeiro;33003785;013;Realizada;4;4;Casa;4;1;Próprio – já pago;0;0;2;2;10;4;10
 2015;Rio de Janeiro;33003831;011;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;1800;1;1800
 2015;Rio de Janeiro;33003874;005;Realizada;3;2;Casa;4;1;Próprio – já pago;0;0;2;4;1550;3;516
 2015;Rio de Janeiro;33003890;008;Realizada;4;4;Apartamento;7;2;Próprio – já pago;0;0;2;2;16500;4;4125
@@ -4268,7 +4268,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35000368;020;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;2;5500;2;2750
 2015;São Paulo;35000414;001;Realizada;2;1;Casa;3;1;Alugado;350;0;4;8;300;2;150
 2015;São Paulo;35000465;013;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;2;1400;2;700
-2015;São Paulo;35000473;005;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;2;999999999999;1;999999999999
+2015;São Paulo;35000473;005;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;2;10;1;10
 2015;São Paulo;35000546;015;Realizada;4;2;Casa;5;2;Alugado;450;0;2;8;2000;4;500
 2015;São Paulo;35000600;011;Realizada;2;2;Casa;4;1;Alugado;150;0;4;4;2000;2;1000
 2015;São Paulo;35000759;015;Realizada;2;2;Casa;5;1;Alugado;680;0;2;2;3000;2;1500
@@ -4287,7 +4287,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35002212;003;Realizada;2;2;Casa;3;1;Cedido de outra forma;0;0;2;8;2800;2;1400
 2015;São Paulo;35002263;004;Realizada;7;5;Casa;5;2;Próprio – já pago;0;0;2;6;2900;7;414
 2015;São Paulo;35002336;006;Realizada;2;2;Apartamento;6;1;Próprio – já pago;0;0;2;2;6000;2;3000
-2015;São Paulo;35002506;006;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;2;999999999999;1;999999999999
+2015;São Paulo;35002506;006;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;2;10;1;10
 2015;São Paulo;35002549;014;Realizada;4;4;Casa;4;2;Alugado;750;0;2;2;1400;4;350
 2015;São Paulo;35002565;001;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;2;2;2000;2;1000
 2015;São Paulo;35002638;008;Realizada;3;3;Casa;3;2;Próprio – já pago;0;0;4;8;788;3;262
@@ -4359,12 +4359,12 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35006846;006;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;8;3238;2;1619
 2015;São Paulo;35006919;033;Realizada;3;2;Casa;4;1;Alugado;500;0;2;2;1908;3;636
 2015;São Paulo;35006935;011;Realizada;5;5;Apartamento;9;3;Próprio – ainda pagando;0;2500;2;2;10000;5;2000
-2015;São Paulo;35006951;009;Realizada;1;1;Apartamento;5;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;São Paulo;35006951;009;Realizada;1;1;Apartamento;5;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;São Paulo;35006986;012;Realizada;7;5;Casa;4;2;Próprio – já pago;0;0;2;8;2735;7;390
 2015;São Paulo;35007036;010;Realizada;4;2;Apartamento;5;2;Próprio – já pago;0;0;2;8;1500;4;375
 2015;São Paulo;35007184;011;Realizada;5;5;Casa;3;1;Próprio – já pago;0;0;2;8;2476;5;495
 2015;São Paulo;35007303;010;Realizada;5;5;Casa;6;3;Próprio – já pago;0;0;2;8;4576;5;915
-2015;São Paulo;35007478;015;Realizada;2;2;Apartamento;6;1;Alugado;3600;0;2;2;999999999999;2;999999999999
+2015;São Paulo;35007478;015;Realizada;2;2;Apartamento;6;1;Alugado;3600;0;2;2;10;2;10
 2015;São Paulo;35007486;009;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;1388;2;694
 2015;São Paulo;35007575;008;Realizada;2;2;Casa;4;2;Alugado;1200;0;2;8;1688;2;844
 2015;São Paulo;35007605;010;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;5200;3;1733
@@ -4414,9 +4414,9 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraná;41000692;005;Realizada;6;4;Casa;5;2;Outra condição;0;0;4;8;2344;6;390
 2015;Paraná;41000854;001;Realizada;6;5;Casa;8;3;Alugado;450;0;4;8;900;6;150
 2015;Paraná;41000919;004;Realizada;4;3;Casa;7;3;Próprio – já pago;0;0;2;2;21788;4;5447
-2015;Paraná;41001095;002;Realizada;3;2;Casa;15;3;Alugado;5300;0;2;6;999999999999;3;999999999999
+2015;Paraná;41001095;002;Realizada;3;2;Casa;15;3;Alugado;5300;0;2;6;10;3;10
 2015;Paraná;41001397;008;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;2;2;6500;2;3250
-2015;Paraná;41001575;012;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
+2015;Paraná;41001575;012;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;10;2;10
 2015;Paraná;41001664;003;Realizada;4;4;Casa;4;3;Próprio – já pago;0;0;4;8;2600;4;650
 2015;Paraná;41001702;010;Realizada;5;4;Casa;9;3;Próprio – já pago;0;0;2;2;2600;5;520
 2015;Paraná;41001710;006;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;4;8;300;2;150
@@ -4475,7 +4475,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42000840;004;Realizada;2;2;Apartamento;6;1;Próprio – já pago;0;0;2;6;7700;2;3850
 2015;Santa Catarina;42000890;009;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;8;1900;3;633
 2015;Santa Catarina;42000912;007;Realizada;3;2;Apartamento;10;3;Próprio – já pago;0;0;2;2;2550;3;850
-2015;Santa Catarina;42000920;003;Realizada;2;2;Apartamento;7;2;Próprio – ainda pagando;0;900;2;6;999999999999;2;999999999999
+2015;Santa Catarina;42000920;003;Realizada;2;2;Apartamento;7;2;Próprio – ainda pagando;0;900;2;6;10;2;10
 2015;Santa Catarina;42001021;003;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;2;2;4000;1;4000
 2015;Santa Catarina;42001110;007;Realizada;2;2;Casa;6;1;Alugado;560;0;4;8;2000;2;1000
 2015;Santa Catarina;42001170;010;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;6;4000;2;2000
@@ -4529,7 +4529,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43002153;002;Realizada;4;3;Casa;6;2;Próprio – já pago;0;0;2;2;2200;4;550
 2015;Rio Grande do Sul;43002153;010;Realizada;3;2;Casa;5;2;Cedido de outra forma;0;0;2;2;2021;3;673
 2015;Rio Grande do Sul;43002188;004;Realizada;2;2;Casa;6;1;Outra condição;0;0;2;2;0;2;0
-2015;Rio Grande do Sul;43002226;007;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;8;999999999999;2;999999999999
+2015;Rio Grande do Sul;43002226;007;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;8;10;2;10
 2015;Rio Grande do Sul;43002315;005;Realizada;1;1;Apartamento;4;1;Próprio – já pago;0;0;4;8;1200;1;1200
 2015;Rio Grande do Sul;43002390;010;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;2;1600;2;800
 2015;Rio Grande do Sul;43002536;012;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;2;2800;3;933
@@ -4559,9 +4559,9 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43003745;001;Realizada;1;1;Apartamento;4;1;Próprio – já pago;0;0;2;8;1000;1;1000
 2015;Rio Grande do Sul;43003761;013;Realizada;1;1;Apartamento;2;1;Alugado;800;0;2;2;7400;1;7400
 2015;Rio Grande do Sul;43003877;002;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;8;1576;3;525
-2015;Rio Grande do Sul;43003885;008;Realizada;2;2;Apartamento;5;1;Alugado;999999999999;0;2;8;2000;2;1000
-2015;Rio Grande do Sul;43003893;008;Realizada;2;2;Apartamento;4;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
-2015;Rio Grande do Sul;43003907;008;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;Rio Grande do Sul;43003885;008;Realizada;2;2;Apartamento;5;1;Alugado;10;0;2;8;2000;2;1000
+2015;Rio Grande do Sul;43003893;008;Realizada;2;2;Apartamento;4;1;Próprio – já pago;0;0;2;2;10;2;10
+2015;Rio Grande do Sul;43003907;008;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;2;10;2;10
 2015;Rio Grande do Sul;43003940;013;Realizada;3;3;Casa;7;2;Alugado;600;0;2;6;4850;3;1616
 2015;Rio Grande do Sul;43003982;014;Realizada;5;5;Casa;6;3;Cedido de outra forma;0;0;2;6;2900;5;580
 2015;Rio Grande do Sul;43004130;014;Realizada;3;2;Apartamento;7;2;Próprio – já pago;0;0;2;2;5300;3;1766
@@ -4627,7 +4627,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Mato Grosso do Sul;50000772;007;Realizada;3;2;Casa;5;2;Alugado;600;0;2;2;6968;3;2322
 2015;Mato Grosso do Sul;50000780;003;Realizada;2;1;Casa;4;1;Alugado;380;0;2;2;362;2;181
 2015;Mato Grosso do Sul;50000896;009;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;788;1;788
-2015;Mato Grosso do Sul;50000985;004;Realizada;4;4;Casa;6;2;Próprio – ainda pagando;0;500;2;6;999999999999;4;999999999999
+2015;Mato Grosso do Sul;50000985;004;Realizada;4;4;Casa;6;2;Próprio – ainda pagando;0;500;2;6;10;4;10
 2015;Mato Grosso do Sul;50001035;003;Realizada;2;2;Casa;7;2;Alugado;750;0;2;2;6400;2;3200
 2015;Mato Grosso do Sul;50001140;011;Realizada;3;2;Casa;5;1;Próprio – já pago;0;0;2;2;8500;3;2833
 2015;Mato Grosso do Sul;50001183;008;Realizada;2;2;Casa;9;2;Próprio – já pago;0;0;2;8;1680;2;840
@@ -4786,7 +4786,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Amazonas;13002252;005;Realizada;8;7;Casa;5;3;Próprio – já pago;0;0;2;8;3276;8;409
 2015;Amazonas;13002325;013;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;8;1576;2;788
 2015;Amazonas;13002333;007;Realizada;9;6;Casa;4;2;Próprio – já pago;0;0;2;4;4200;9;466
-2015;Amazonas;13002341;009;Realizada;10;9;Casa;7;3;Próprio – já pago;0;0;4;8;999999999999;10;999999999999
+2015;Amazonas;13002341;009;Realizada;10;9;Casa;7;3;Próprio – já pago;0;0;4;8;10;10;10
 2015;Roraima;14000067;011;Realizada;5;5;Casa;6;3;Alugado;700;0;2;2;2776;5;555
 2015;Roraima;14000113;016;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;Roraima;14000202;012;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;4;4;6200;4;1550
@@ -4843,7 +4843,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pará;15003973;001;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;8;4000;4;1000
 2015;Pará;15003981;002;Realizada;3;2;Casa;8;2;Próprio – já pago;0;0;2;2;4800;3;1600
 2015;Pará;15004171;005;Realizada;7;5;Casa;3;2;Próprio – já pago;0;0;4;8;492;7;70
-2015;Pará;15004180;003;Realizada;2;2;Apartamento;3;1;Alugado;150;0;2;4;999999999999;2;999999999999
+2015;Pará;15004180;003;Realizada;2;2;Apartamento;3;1;Alugado;150;0;2;4;10;2;10
 2015;Pará;15004228;005;Realizada;3;2;Casa;6;2;Cedido de outra forma;0;0;4;4;747;3;249
 2015;Pará;15004368;003;Realizada;3;2;Casa;6;1;Próprio – já pago;0;0;4;4;1688;3;562
 2015;Pará;15004457;001;Realizada;4;2;Casa;3;1;Alugado;300;0;2;8;1500;4;375
@@ -4872,12 +4872,12 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Tocantins;17000645;010;Realizada;3;2;Casa;7;2;Próprio – já pago;0;0;2;4;5850;3;1950
 2015;Tocantins;17000840;004;Realizada;4;4;Casa;6;2;Próprio – já pago;0;0;2;6;4500;4;1125
 2015;Tocantins;17000858;004;Realizada;4;4;Casa;5;2;Alugado;250;0;4;2;1750;4;437
-2015;Tocantins;17000890;002;Realizada;3;3;Casa;9;1;Próprio – já pago;0;0;4;4;999999999999;3;999999999999
+2015;Tocantins;17000890;002;Realizada;3;3;Casa;9;1;Próprio – já pago;0;0;4;4;10;3;10
 2015;Tocantins;17000912;013;Realizada;8;7;Casa;6;3;Próprio – já pago;0;0;4;8;988;8;123
 2015;Tocantins;17000971;003;Realizada;4;4;Casa;6;2;Próprio – já pago;0;0;4;4;947;4;236
 2015;Tocantins;17001030;018;Realizada;1;1;Casa;7;1;Cedido por empregador;0;0;4;4;1000;1;1000
 2015;Tocantins;17001064;006;Realizada;4;2;Casa;6;2;Cedido de outra forma;0;0;2;8;300;4;75
-2015;Tocantins;17001064;009;Realizada;3;3;Casa;5;3;Próprio – já pago;0;0;2;6;999999999999;3;999999999999
+2015;Tocantins;17001064;009;Realizada;3;3;Casa;5;3;Próprio – já pago;0;0;2;6;10;3;10
 2015;Tocantins;17001064;011;Realizada;5;4;Casa;7;4;Próprio – já pago;0;0;2;8;1676;5;335
 2015;Tocantins;17001153;004;Realizada;4;4;Casa;4;2;Próprio – já pago;0;0;2;2;2000;4;500
 2015;Tocantins;17001153;005;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;2;4;2438;3;812
@@ -4892,8 +4892,8 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Maranhão;21000190;013;Realizada;2;2;Casa;6;1;Cedido por empregador;0;0;4;4;1588;2;794
 2015;Maranhão;21000212;003;Realizada;4;3;Casa;12;3;Próprio – já pago;0;0;2;2;4664;4;1166
 2015;Maranhão;21000255;004;Realizada;5;3;Casa;4;2;Próprio – já pago;0;0;4;8;572;5;114
-2015;Maranhão;21000310;013;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;8;999999999999;2;999999999999
-2015;Maranhão;21000352;003;Realizada;7;2;Casa;2;1;Outra condição;0;0;4;8;999999999999;7;999999999999
+2015;Maranhão;21000310;013;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;8;10;2;10
+2015;Maranhão;21000352;003;Realizada;7;2;Casa;2;1;Outra condição;0;0;4;8;10;7;10
 2015;Maranhão;21000514;014;Realizada;4;3;Casa;10;3;Próprio – já pago;0;0;4;8;788;4;197
 2015;Maranhão;21000549;004;Realizada;4;2;Casa;4;2;Próprio – já pago;0;0;4;4;322;4;80
 2015;Maranhão;21000573;004;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;8;2476;3;825
@@ -4935,7 +4935,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Piauí;22001271;010;Realizada;1;1;Casa;4;1;Cedido de outra forma;0;0;4;8;788;1;788
 2015;Piauí;22001280;001;Realizada;4;4;Casa;7;2;Próprio – já pago;0;0;4;8;1272;4;318
 2015;Ceará;23000031;011;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;8;1576;3;525
-2015;Ceará;23000104;008;Realizada;1;1;Casa;6;1;Cedido de outra forma;0;0;4;8;999999999999;1;999999999999
+2015;Ceará;23000104;008;Realizada;1;1;Casa;6;1;Cedido de outra forma;0;0;4;8;10;1;10
 2015;Ceará;23000147;010;Realizada;3;2;Casa;5;1;Próprio – já pago;0;0;2;8;800;3;266
 2015;Ceará;23000171;004;Realizada;5;4;Casa;7;2;Próprio – já pago;0;0;4;4;1808;5;361
 2015;Ceará;23000180;020;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;8;788;2;394
@@ -4953,7 +4953,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23001143;004;Realizada;2;1;Casa;7;1;Alugado;400;0;2;8;1012;2;506
 2015;Ceará;23001240;001;Realizada;2;2;Apartamento;4;2;Alugado;500;0;2;8;400;2;200
 2015;Ceará;23001550;012;Realizada;5;5;Casa;7;3;Próprio – já pago;0;0;2;8;7338;5;1467
-2015;Ceará;23001798;004;Realizada;4;4;Casa;9;2;Próprio – já pago;0;0;4;8;999999999999;4;999999999999
+2015;Ceará;23001798;004;Realizada;4;4;Casa;9;2;Próprio – já pago;0;0;4;8;10;4;10
 2015;Ceará;23001852;007;Realizada;4;3;Casa;8;3;Próprio – ainda pagando;0;600;2;6;7000;4;1750
 2015;Ceará;23001895;011;Realizada;5;3;Casa;6;2;Próprio – já pago;0;0;2;8;3260;5;652
 2015;Ceará;23001933;012;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;4;2;2050;4;512
@@ -4983,7 +4983,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23003839;002;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;2;8;1576;2;788
 2015;Ceará;23004100;006;Realizada;4;3;Casa;11;2;Cedido de outra forma;0;0;4;8;624;4;156
 2015;Ceará;23004134;003;Realizada;4;3;Casa;6;3;Próprio – já pago;0;0;2;4;2288;4;572
-2015;Ceará;23004193;014;Realizada;3;1;Casa;5;1;Próprio – já pago;0;0;4;8;999999999999;3;999999999999
+2015;Ceará;23004193;014;Realizada;3;1;Casa;5;1;Próprio – já pago;0;0;4;8;10;3;10
 2015;Ceará;23004401;012;Realizada;3;3;Casa;5;2;Cedido de outra forma;0;0;4;8;788;3;262
 2015;Ceará;23004444;016;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;4;1390;2;695
 2015;Ceará;23004517;003;Realizada;3;2;Casa;5;2;Alugado;220;0;4;8;312;3;104
@@ -5069,7 +5069,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pernambuco;26002701;007;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;2;2;5000;1;5000
 2015;Pernambuco;26002825;012;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;8;900;1;900
 2015;Pernambuco;26002914;006;Realizada;3;3;Apartamento;7;3;Alugado;1000;0;2;2;11195;3;3731
-2015;Pernambuco;26003104;009;Realizada;4;4;Casa;7;2;Próprio – já pago;0;0;2;8;999999999999;4;999999999999
+2015;Pernambuco;26003104;009;Realizada;4;4;Casa;7;2;Próprio – já pago;0;0;2;8;10;4;10
 2015;Pernambuco;26003120;006;Realizada;4;4;Casa;4;2;Próprio – já pago;0;0;4;8;310;4;77
 2015;Pernambuco;26003252;005;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;2;8;1970;1;1970
 2015;Pernambuco;26003295;007;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;1588;2;794
@@ -5104,7 +5104,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Alagoas;27000737;013;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;2;3500;3;1166
 2015;Alagoas;27000770;002;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;8;5172;2;2586
 2015;Alagoas;27000796;010;Realizada;4;4;Casa;4;2;Próprio – já pago;0;0;2;8;988;4;247
-2015;Alagoas;27000850;009;Realizada;5;5;Casa;7;3;Próprio – já pago;0;0;4;4;999999999999;5;999999999999
+2015;Alagoas;27000850;009;Realizada;5;5;Casa;7;3;Próprio – já pago;0;0;4;4;10;5;10
 2015;Alagoas;27000990;012;Realizada;4;4;Casa;6;2;Próprio – já pago;0;0;2;8;547;4;136
 2015;Alagoas;27001024;002;Realizada;4;3;Casa;7;2;Próprio – já pago;0;0;2;2;554;4;138
 2015;Alagoas;27001032;003;Realizada;4;2;Casa;6;2;Próprio – já pago;0;0;4;8;747;4;186
@@ -5119,7 +5119,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Sergipe;28000765;007;Realizada;6;3;Casa;5;3;Próprio – já pago;0;0;4;8;416;6;69
 2015;Sergipe;28000889;013;Realizada;2;1;Casa;4;1;Cedido de outra forma;0;0;4;8;788;2;394
 2015;Sergipe;28000994;006;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;788;1;788
-2015;Sergipe;28001176;011;Realizada;5;4;Casa;3;2;Próprio – já pago;0;0;4;4;999999999999;5;999999999999
+2015;Sergipe;28001176;011;Realizada;5;4;Casa;3;2;Próprio – já pago;0;0;4;4;10;5;10
 2015;Sergipe;28001230;001;Realizada;4;4;Casa;4;2;Próprio – já pago;0;0;2;4;2613;4;653
 2015;Sergipe;28001362;006;Realizada;4;4;Casa;6;2;Alugado;350;0;4;8;788;4;197
 2015;Sergipe;28001559;002;Realizada;4;3;Casa;6;2;Próprio – já pago;0;0;4;4;1140;4;285
@@ -5149,7 +5149,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Bahia;29002184;003;Realizada;6;4;Casa;6;2;Próprio – já pago;0;0;2;8;2474;6;412
 2015;Bahia;29002338;009;Realizada;3;2;Apartamento;4;2;Alugado;250;0;2;8;700;3;233
 2015;Bahia;29002346;002;Realizada;2;2;Casa;6;1;Cedido de outra forma;0;0;4;4;788;2;394
-2015;Bahia;29002397;016;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;6;999999999999;3;999999999999
+2015;Bahia;29002397;016;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;6;10;3;10
 2015;Bahia;29002400;017;Realizada;3;2;Casa;9;2;Próprio – já pago;0;0;2;2;2100;3;700
 2015;Bahia;29002451;014;Realizada;5;4;Casa;8;3;Alugado;350;0;2;8;3560;5;712
 2015;Bahia;29002559;011;Realizada;7;6;Casa;4;2;Próprio – já pago;0;0;4;8;786;7;112
@@ -5220,7 +5220,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31000355;007;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;Minas Gerais;31000398;015;Realizada;4;4;Casa;8;3;Próprio – já pago;0;0;2;8;3152;4;788
 2015;Minas Gerais;31000592;007;Realizada;4;2;Apartamento;8;2;Próprio – ainda pagando;0;1300;2;2;22500;4;5625
-2015;Minas Gerais;31000614;014;Realizada;2;2;Apartamento;16;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;Minas Gerais;31000614;014;Realizada;2;2;Apartamento;16;1;Próprio – já pago;0;0;2;2;10;2;10
 2015;Minas Gerais;31000622;019;Realizada;1;1;Apartamento;8;1;Próprio – já pago;0;0;2;2;10150;1;10150
 2015;Minas Gerais;31000657;013;Realizada;10;9;Casa;9;4;Próprio – já pago;0;0;2;2;8476;10;847
 2015;Minas Gerais;31000800;012;Realizada;3;3;Apartamento;10;2;Próprio – já pago;0;0;2;2;20160;3;6720
@@ -5321,7 +5321,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31007260;014;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;2;1900;2;950
 2015;Minas Gerais;31007503;010;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;1608;1;1608
 2015;Minas Gerais;31007538;012;Realizada;5;5;Casa;8;3;Próprio – ainda pagando;0;490;2;2;6500;5;1300
-2015;Minas Gerais;31007600;014;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
+2015;Minas Gerais;31007600;014;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;10;2;10
 2015;Minas Gerais;31007678;001;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;8;1576;2;788
 2015;Minas Gerais;31008020;008;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;2;1800;2;900
 2015;Minas Gerais;31008038;005;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;4;8;2964;4;741
@@ -5362,7 +5362,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33001340;008;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;8;2076;2;1038
 2015;Rio de Janeiro;33001510;002;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;4;8;788;4;197
 2015;Rio de Janeiro;33001529;014;Realizada;3;2;Casa;5;2;Alugado;500;0;2;2;2000;3;666
-2015;Rio de Janeiro;33001553;002;Realizada;2;2;Apartamento;7;2;Próprio – ainda pagando;0;999999999999;2;2;5800;2;2900
+2015;Rio de Janeiro;33001553;002;Realizada;2;2;Apartamento;7;2;Próprio – ainda pagando;0;10;2;2;5800;2;2900
 2015;Rio de Janeiro;33001561;016;Realizada;5;2;Casa;3;1;Próprio – já pago;0;0;4;8;1288;5;257
 2015;Rio de Janeiro;33001618;005;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;2;3208;3;1069
 2015;Rio de Janeiro;33001782;015;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;2;4;1576;3;525
@@ -5373,7 +5373,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33002002;011;Realizada;5;4;Apartamento;6;2;Alugado;600;0;2;8;1600;5;320
 2015;Rio de Janeiro;33002053;011;Realizada;5;4;Casa;6;3;Cedido de outra forma;0;0;2;8;890;5;178
 2015;Rio de Janeiro;33002134;014;Realizada;2;2;Apartamento;6;2;Alugado;1200;0;2;2;7700;2;3850
-2015;Rio de Janeiro;33002177;013;Realizada;1;1;Casa;5;1;Cedido de outra forma;0;0;4;8;999999999999;1;999999999999
+2015;Rio de Janeiro;33002177;013;Realizada;1;1;Casa;5;1;Cedido de outra forma;0;0;4;8;10;1;10
 2015;Rio de Janeiro;33002401;013;Realizada;4;4;Apartamento;5;2;Alugado;850;0;2;8;4050;4;1012
 2015;Rio de Janeiro;33002410;003;Realizada;4;3;Casa;7;3;Alugado;800;0;2;2;2900;4;725
 2015;Rio de Janeiro;33002428;006;Realizada;2;2;Casa;6;2;Cedido de outra forma;0;0;2;2;1500;2;750
@@ -5396,7 +5396,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33003750;008;Realizada;3;2;Casa;4;1;Alugado;350;0;2;2;8220;3;2740
 2015;Rio de Janeiro;33003823;006;Realizada;3;2;Casa;4;1;Alugado;150;0;2;8;2000;3;666
 2015;Rio de Janeiro;33003858;005;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;8;2700;3;900
-2015;Rio de Janeiro;33003920;001;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;Rio de Janeiro;33003920;001;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;Rio de Janeiro;33003939;012;Realizada;3;3;Apartamento;10;2;Próprio – já pago;0;0;4;8;4470;3;1490
 2015;Rio de Janeiro;33003955;017;Realizada;2;2;Apartamento;8;1;Próprio – já pago;0;0;2;8;4000;2;2000
 2015;Rio de Janeiro;33003963;008;Realizada;2;2;Apartamento;5;1;Próprio – já pago;0;0;2;2;4576;2;2288
@@ -5429,7 +5429,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33006075;011;Realizada;3;3;Casa;8;3;Alugado;650;0;2;8;3600;3;1200
 2015;Rio de Janeiro;33006199;004;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;8;2000;2;1000
 2015;Rio de Janeiro;33006210;019;Realizada;6;4;Casa;6;2;Alugado;600;0;2;2;7700;6;1283
-2015;Rio de Janeiro;33006520;020;Realizada;8;8;Casa;5;2;Próprio – já pago;0;0;4;2;999999999999;8;999999999999
+2015;Rio de Janeiro;33006520;020;Realizada;8;8;Casa;5;2;Próprio – já pago;0;0;4;2;10;8;10
 2015;Rio de Janeiro;33006555;014;Realizada;1;1;Casa;5;1;Alugado;800;0;2;2;4000;1;4000
 2015;Rio de Janeiro;33006555;020;Realizada;5;4;Casa;5;2;Alugado;500;0;2;2;1320;5;264
 2015;Rio de Janeiro;33006660;003;Realizada;4;4;Casa;5;2;Alugado;500;0;4;8;2800;4;700
@@ -5455,7 +5455,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35001291;001;Realizada;3;2;N/A;0;0;NA;0;0; ; ;8000;3;2666
 2015;São Paulo;35001364;001;Realizada;4;2;Casa;8;3;Próprio – já pago;0;0;2;2;12700;4;3175
 2015;São Paulo;35001399;006;Realizada;4;3;Casa;10;2;Próprio – já pago;0;0;2;6;3000;4;750
-2015;São Paulo;35001496;016;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35001496;016;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35001542;001;Realizada;3;2;Casa;6;2;Alugado;700;0;4;2;4700;3;1566
 2015;São Paulo;35001810;008;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;São Paulo;35001810;009;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;2;8;3450;3;1150
@@ -5470,7 +5470,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35002280;012;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;2;3076;3;1025
 2015;São Paulo;35002301;009;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;2588;3;862
 2015;São Paulo;35002344;012;Realizada;1;1;Casa;4;1;Alugado;370;0;2;4;1900;1;1900
-2015;São Paulo;35002697;003;Realizada;4;4;Casa;6;2;Próprio – já pago;0;0;4;2;999999999999;4;999999999999
+2015;São Paulo;35002697;003;Realizada;4;4;Casa;6;2;Próprio – já pago;0;0;4;2;10;4;10
 2015;São Paulo;35002778;015;Realizada;5;5;Casa;5;3;Próprio – já pago;0;0;2;6;5900;5;1180
 2015;São Paulo;35002913;013;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;São Paulo;35002948;018;Realizada;7;5;Casa;6;3;Próprio – já pago;0;0;4;8;3688;7;526
@@ -5480,7 +5480,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35003162;005;Realizada;7;3;Casa;5;1;Cedido de outra forma;0;0;4;8;2300;7;328
 2015;São Paulo;35003170;015;Realizada;2;2;Apartamento;5;2;Próprio – ainda pagando;0;200;4;8;1200;2;600
 2015;São Paulo;35003200;015;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;250;1;250
-2015;São Paulo;35003243;009;Realizada;2;2;Casa;5;2;Cedido de outra forma;0;0;2;8;999999999999;2;999999999999
+2015;São Paulo;35003243;009;Realizada;2;2;Casa;5;2;Cedido de outra forma;0;0;2;8;10;2;10
 2015;São Paulo;35003286;011;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;3818;3;1272
 2015;São Paulo;35003286;015;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;6;3850;2;1925
 2015;São Paulo;35003316;002;Realizada;2;2;Casa;7;2;Cedido de outra forma;0;0;2;8;3788;2;1894
@@ -5489,7 +5489,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35003421;006;Realizada;5;3;Casa;6;3;Próprio – já pago;0;0;2;6;4576;5;915
 2015;São Paulo;35003448;016;Realizada;4;2;Casa;10;3;Próprio – já pago;0;0;2;2;9000;4;2250
 2015;São Paulo;35003537;013;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;4;1200;1;1200
-2015;São Paulo;35003588;008;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;São Paulo;35003588;008;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;2;2;10;2;10
 2015;São Paulo;35003600;005;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;2;6;1500;5;300
 2015;São Paulo;35003669;002;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;2;6;23000;4;5750
 2015;São Paulo;35003693;002;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;3940;3;1313
@@ -5502,7 +5502,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35003898;002;Realizada;3;2;Casa;4;1;Alugado;300;0;4;4;1700;3;566
 2015;São Paulo;35003928;005;Realizada;5;3;Casa;5;2;Alugado;250;0;4;2;1400;5;280
 2015;São Paulo;35003979;001;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;2;8;3000;2;1500
-2015;São Paulo;35004053;012;Realizada;3;2;Casa;3;1;Cedido de outra forma;0;0;2;8;999999999999;3;999999999999
+2015;São Paulo;35004053;012;Realizada;3;2;Casa;3;1;Cedido de outra forma;0;0;2;8;10;3;10
 2015;São Paulo;35004100;022;Realizada;2;2;Casa;1;1;Cedido de outra forma;0;0;4;8;550;2;275
 2015;São Paulo;35004304;012;Realizada;3;2;Casa;7;2;Alugado;800;0;2;8;1450;3;483
 2015;São Paulo;35004428;002;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;2700;3;900
@@ -5514,7 +5514,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35004762;004;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;6;3288;3;1096
 2015;São Paulo;35004894;016;Realizada;3;3;Casa;6;2;Alugado;500;0;4;6;600;3;200
 2015;São Paulo;35004916;007;Realizada;2;2;Casa;3;1;Alugado;300;0;4;8;1576;2;788
-2015;São Paulo;35004959;015;Realizada;2;2;Apartamento;6;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;São Paulo;35004959;015;Realizada;2;2;Apartamento;6;1;Próprio – já pago;0;0;2;2;10;2;10
 2015;São Paulo;35005114;001;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;1500;2;750
 2015;São Paulo;35005211;025;Realizada;4;3;Casa;12;4;Próprio – já pago;0;0;2;6;3400;4;850
 2015;São Paulo;35005386;002;Realizada;2;2;Casa;5;1;Próprio – ainda pagando;0;300;4;2;2300;2;1150
@@ -5532,11 +5532,11 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35006862;012;Realizada;2;2;Casa;5;2;Alugado;550;0;4;8;1576;2;788
 2015;São Paulo;35006986;008;Realizada;4;4;Casa;4;2;Próprio – já pago;0;0;2;8;1900;4;475
 2015;São Paulo;35006994;003;Realizada;3;2;Apartamento;5;2;Próprio – ainda pagando;0;500;2;2;2500;3;833
-2015;São Paulo;35007044;008;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35007044;008;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35007095;002;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;1900;2;950
 2015;São Paulo;35007141;009;Realizada;1;1;Apartamento;10;1;Próprio – já pago;0;0;2;2;8000;1;8000
 2015;São Paulo;35007265;015;Realizada;4;3;Casa;7;4;Próprio – já pago;0;0;4;2;2000;4;500
-2015;São Paulo;35007273;025;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35007273;025;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35007397;015;Realizada;4;4;Casa;8;2;Próprio – já pago;0;0;2;2;3900;4;975
 2015;São Paulo;35007494;008;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;8;2576;4;644
 2015;São Paulo;35007575;004;Realizada;4;2;Casa;3;1;Alugado;465;0;2;8;1100;4;275
@@ -5544,7 +5544,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35007699;010;Realizada;5;4;Casa;7;3;Próprio – já pago;0;0;2;2;19788;5;3957
 2015;São Paulo;35007710;012;Realizada;3;3;Apartamento;5;2;Próprio – ainda pagando;0;270;4;8;3100;3;1033
 2015;São Paulo;35007770;024;Realizada;4;2;Casa;4;1;Próprio – já pago;0;0;4;8;2800;4;700
-2015;São Paulo;35007850;016;Realizada;2;2;Apartamento;5;1;Alugado;1800;0;2;2;999999999999;2;999999999999
+2015;São Paulo;35007850;016;Realizada;2;2;Apartamento;5;1;Alugado;1800;0;2;2;10;2;10
 2015;São Paulo;35007931;013;Realizada;4;2;Casa;6;3;Próprio – já pago;0;0;2;2;4700;4;1175
 2015;São Paulo;35007940;001;Realizada;2;2;Apartamento;5;2;Próprio – ainda pagando;0;210;2;8;1200;2;600
 2015;São Paulo;35007966;006;Realizada;1;1;Apartamento;3;1;Alugado;1300;0;2;8;4500;1;4500
@@ -5562,11 +5562,11 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35008733;003;Realizada;3;2;Casa;7;2;Próprio – já pago;0;0;2;2;3500;3;1166
 2015;São Paulo;35008741;004;Realizada;2;2;Apartamento;5;1;Próprio – já pago;0;0;4;2;1500;2;750
 2015;São Paulo;35008822;012;Realizada;5;5;Casa;6;3;Próprio – já pago;0;0;2;2;3450;5;690
-2015;São Paulo;35008849;020;Realizada;5;5;Casa;8;3;Próprio – já pago;0;0;2;2;999999999999;5;999999999999
+2015;São Paulo;35008849;020;Realizada;5;5;Casa;8;3;Próprio – já pago;0;0;2;2;10;5;10
 2015;São Paulo;35008865;002;Realizada;3;3;Casa;6;2;Próprio – ainda pagando;0;3000;2;2;2776;3;925
 2015;São Paulo;35008920;007;Realizada;5;5;Casa;10;4;Próprio – já pago;0;0;2;2;8500;5;1700
 2015;São Paulo;35008962;003;Realizada;6;5;Casa;5;2;Próprio – já pago;0;0;2;8;3739;6;623
-2015;São Paulo;35009012;012;Realizada;2;2;Apartamento;8;1;Próprio – ainda pagando;0;999999999999;2;6;999999999999;2;999999999999
+2015;São Paulo;35009012;012;Realizada;2;2;Apartamento;8;1;Próprio – ainda pagando;0;10;2;6;10;2;10
 2015;São Paulo;35009179;011;Realizada;4;2;Casa;5;2;Cedido de outra forma;0;0;2;8;2120;4;530
 2015;São Paulo;35009187;002;Realizada;3;2;Casa;4;3;Próprio – já pago;0;0;2;2;5800;3;1933
 2015;São Paulo;35009306;008;Realizada;3;3;Casa;4;2;Alugado;612;0;2;2;4780;3;1593
@@ -5662,11 +5662,11 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42000653;002;Realizada;4;3;Casa;3;2;Próprio – já pago;0;0;2;2;1800;4;450
 2015;Santa Catarina;42000718;008;Realizada;1;1;N/A;0;0;NA;0;0; ; ;788;1;788
 2015;Santa Catarina;42000890;008;Realizada;2;2;Casa;3;1;Alugado;500;0;2;2;3000;2;1500
-2015;Santa Catarina;42000998;004;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;2;8;999999999999;4;999999999999
+2015;Santa Catarina;42000998;004;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;2;8;10;4;10
 2015;Santa Catarina;42001021;006;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;4000;3;1333
 2015;Santa Catarina;42001030;001;Realizada;3;2;Casa;7;2;Próprio – já pago;0;0;2;2;6000;3;2000
 2015;Santa Catarina;42001030;004;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;2;6000;3;2000
-2015;Santa Catarina;42001030;007;Realizada;3;3;Casa;11;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Santa Catarina;42001030;007;Realizada;3;3;Casa;11;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;Santa Catarina;42001102;007;Realizada;4;3;Casa;10;3;Próprio – já pago;0;0;2;8;2476;4;619
 2015;Santa Catarina;42001110;012;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;8;1568;2;784
 2015;Santa Catarina;42001145;005;Realizada;4;4;Casa;8;3;Próprio – já pago;0;0;4;2;3500;4;875
@@ -5747,14 +5747,14 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43004580;002;Realizada;6;5;Casa;6;2;Próprio – ainda pagando;0;33;2;8;2200;6;366
 2015;Rio Grande do Sul;43004679;007;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;2;8;13500;3;4500
 2015;Rio Grande do Sul;43004695;007;Realizada;1;1;Apartamento;4;1;Próprio – já pago;0;0;2;2;3100;1;3100
-2015;Rio Grande do Sul;43004695;013;Realizada;2;2;Apartamento;5;1;Próprio – ainda pagando;0;1150;2;2;999999999999;2;999999999999
+2015;Rio Grande do Sul;43004695;013;Realizada;2;2;Apartamento;5;1;Próprio – ainda pagando;0;1150;2;2;10;2;10
 2015;Rio Grande do Sul;43004830;004;Realizada;1;1;Casa;8;1;Próprio – já pago;0;0;2;2;4388;1;4388
 2015;Rio Grande do Sul;43004830;007;Realizada;3;2;Apartamento;9;2;Próprio – já pago;0;0;2;2;28000;3;9333
 2015;Rio Grande do Sul;43004903;011;Realizada;4;4;Casa;13;3;Próprio – já pago;0;0;2;2;35000;4;8750
 2015;Rio Grande do Sul;43005012;011;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;1700;1;1700
 2015;Rio Grande do Sul;43005110;015;Realizada;2;2;Casa;4;2;Alugado;480;0;4;8;1400;2;700
 2015;Rio Grande do Sul;43005128;001;Realizada;6;5;Casa;7;1;Próprio – já pago;0;0;2;2;3400;6;566
-2015;Rio Grande do Sul;43005284;012;Realizada;2;1;Casa;4;2;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
+2015;Rio Grande do Sul;43005284;012;Realizada;2;1;Casa;4;2;Próprio – já pago;0;0;4;2;10;2;10
 2015;Rio Grande do Sul;43005292;004;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;2;2;5000;1;5000
 2015;Rio Grande do Sul;43005373;015;Realizada;3;3;Apartamento;5;2;Próprio – já pago;0;0;2;8;2160;3;720
 2015;Rio Grande do Sul;43005390;008;Realizada;6;6;Casa;6;2;Próprio – já pago;0;0;2;2;4500;6;750
@@ -5812,7 +5812,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Mato Grosso;51000881;005;Realizada;4;3;Casa;7;3;Próprio – já pago;0;0;2;6;10300;4;2575
 2015;Mato Grosso;51000938;006;Realizada;5;4;Casa;8;3;Próprio – já pago;0;0;2;2;4000;5;800
 2015;Mato Grosso;51000938;014;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;4;2788;2;1394
-2015;Mato Grosso;51001039;006;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;8;999999999999;2;999999999999
+2015;Mato Grosso;51001039;006;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;8;10;2;10
 2015;Mato Grosso;51001055;012;Realizada;5;4;Casa;1;1;Cedido de outra forma;0;0;4;8;782;5;156
 2015;Mato Grosso;51001144;007;Realizada;4;3;Casa;5;2;Próprio – ainda pagando;0;500;2;6;2888;4;722
 2015;Mato Grosso;51001179;009;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;788;1;788
@@ -5901,7 +5901,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Distrito Federal;53000897;014;Realizada;4;4;Casa;6;2;Próprio – já pago;0;0;4;2;2750;4;687
 2015;Distrito Federal;53000960;005;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;2;2;7600;2;3800
 2015;Distrito Federal;53001001;009;Realizada;6;5;Casa;6;2;Alugado;350;0;2;2;3150;6;525
-2015;Distrito Federal;53001184;016;Realizada;3;3;Casa;6;3;Próprio – ainda pagando;0;999999999999;2;2;3500;3;1166
+2015;Distrito Federal;53001184;016;Realizada;3;3;Casa;6;3;Próprio – ainda pagando;0;10;2;2;3500;3;1166
 2015;Distrito Federal;53001230;021;Realizada;1;1;Apartamento;5;1;Próprio – já pago;0;0;4;8;1500;1;1500
 2015;Distrito Federal;53001354;004;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;1100;1;1100
 2015;Distrito Federal;53001397;010;Realizada;2;2;Casa;6;1;Alugado;1178;0;2;2;7000;2;3500
@@ -6012,7 +6012,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Roraima;14000164;017;Realizada;2;2;Casa;3;1;Alugado;300;0;4;8;992;2;496
 2015;Roraima;14000300;004;Realizada;3;3;Casa;2;1;Próprio – já pago;0;0;2;4;918;3;306
 2015;Roraima;14000342;011;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;2;2;4300;2;2150
-2015;Roraima;14000385;006;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;2;999999999999;4;999999999999
+2015;Roraima;14000385;006;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;2;10;4;10
 2015;Pará;15000028;015;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;200;2;100
 2015;Pará;15000044;011;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;4;4;2000;4;500
 2015;Pará;15000052;010;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;4;8;1876;3;625
@@ -6173,7 +6173,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23002522;006;Realizada;6;6;Casa;5;2;Próprio – já pago;0;0;2;4;1150;6;191
 2015;Ceará;23002603;018;Realizada;5;3;Casa;8;2;Próprio – já pago;0;0;2;2;189;4;47
 2015;Ceará;23002760;013;Realizada;4;3;Apartamento;7;2;Alugado;800;0;2;8;3930;4;982
-2015;Ceará;23002948;019;Realizada;2;2;Casa;3;1;Alugado;100;0;4;8;999999999999;2;999999999999
+2015;Ceará;23002948;019;Realizada;2;2;Casa;3;1;Alugado;100;0;4;8;10;2;10
 2015;Ceará;23003049;013;Realizada;4;4;Casa;5;4;Próprio – já pago;0;0;4;4;2658;4;664
 2015;Ceará;23003120;004;Realizada;2;2;Casa;9;1;Próprio – já pago;0;0;2;2;6000;2;3000
 2015;Ceará;23003219;008;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;2;1500;2;750
@@ -6320,7 +6320,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Alagoas;27000320;009;Realizada;4;3;Casa;6;2;Próprio – já pago;0;0;4;8;1638;4;409
 2015;Alagoas;27000419;006;Realizada;3;2;Casa;5;2;Alugado;180;0;2;4;700;3;233
 2015;Alagoas;27000540;001;Realizada;5;5;Casa;11;4;Próprio – já pago;0;0;2;2;10776;5;2155
-2015;Alagoas;27000567;005;Realizada;3;3;Casa;5;2;Próprio – ainda pagando;0;999999999999;2;2;1960;3;653
+2015;Alagoas;27000567;005;Realizada;3;3;Casa;5;2;Próprio – ainda pagando;0;10;2;2;1960;3;653
 2015;Alagoas;27000583;002;Realizada;5;4;Casa;5;3;Próprio – já pago;0;0;2;2;2426;5;485
 2015;Alagoas;27000753;015;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;300;2;150
 2015;Alagoas;27000770;022;Realizada;4;4;Casa;5;2;Alugado;300;0;4;8;2576;4;644
@@ -6387,7 +6387,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Bahia;29004179;015;Realizada;1;1;Apartamento;7;1;Próprio – já pago;0;0;4;8;2500;1;2500
 2015;Bahia;29004233;009;Realizada;2;2;Apartamento;7;2;Próprio – já pago;0;0;2;2;5000;2;2500
 2015;Bahia;29004241;014;Realizada;3;2;Apartamento;6;2;Próprio – já pago;0;0;2;2;13000;3;4333
-2015;Bahia;29004314;011;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;Bahia;29004314;011;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;Bahia;29004551;002;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;8;1576;2;788
 2015;Bahia;29004713;003;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;1288;1;1288
 2015;Bahia;29004721;006;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;2;8;1500;3;500
@@ -6434,7 +6434,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31000339;018;Realizada;1;1;Casa;4;1;Cedido de outra forma;0;0;4;2;0;1;0
 2015;Minas Gerais;31000460;001;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;2;8;788;3;262
 2015;Minas Gerais;31000479;001;Realizada;2;2;Apartamento;12;1;Próprio – ainda pagando;0;1100;2;2;39663;2;19831
-2015;Minas Gerais;31000495;006;Realizada;4;4;Apartamento;8;2;Próprio – ainda pagando;0;3400;2;6;999999999999;4;999999999999
+2015;Minas Gerais;31000495;006;Realizada;4;4;Apartamento;8;2;Próprio – ainda pagando;0;3400;2;6;10;4;10
 2015;Minas Gerais;31000606;005;Realizada;3;3;Apartamento;8;2;Próprio – ainda pagando;0;2553;2;2;7200;3;2400
 2015;Minas Gerais;31000673;016;Realizada;5;5;Casa;9;3;Próprio – já pago;0;0;2;2;6300;5;1260
 2015;Minas Gerais;31000711;013;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;2;788;1;788
@@ -6458,7 +6458,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31002153;008;Realizada;3;2;Casa;6;2;Alugado;350;0;4;4;2612;3;870
 2015;Minas Gerais;31002170;007;Realizada;2;2;Casa;8;1;Próprio – já pago;0;0;2;4;4600;2;2300
 2015;Minas Gerais;31002200;008;Realizada;5;5;Casa;6;2;Alugado;200;0;2;8;388;5;77
-2015;Minas Gerais;31002498;002;Realizada;5;2;Casa;7;3;Alugado;999999999999;0;2;2;4850;5;970
+2015;Minas Gerais;31002498;002;Realizada;5;2;Casa;7;3;Alugado;10;0;2;2;4850;5;970
 2015;Minas Gerais;31002498;014;Realizada;1;1;Casa;10;1;Cedido de outra forma;0;0;2;8;1654;1;1654
 2015;Minas Gerais;31002552;007;Realizada;4;2;Apartamento;5;2;Cedido de outra forma;0;0;4;2;1347;4;336
 2015;Minas Gerais;31002579;018;Realizada;1;1;Apartamento;4;1;Alugado;550;0;2;8;1500;1;1500
@@ -6471,7 +6471,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31003427;011;Realizada;5;4;Casa;9;3;Próprio – já pago;0;0;2;8;2900;5;580
 2015;Minas Gerais;31003486;011;Realizada;1;1;Casa;5;1;Alugado;350;0;4;4;1300;1;1300
 2015;Minas Gerais;31003494;009;Realizada;2;2;Casa;9;2;Próprio – já pago;0;0;2;6;3735;2;1867
-2015;Minas Gerais;31003508;001;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;999999999999;3;999999999999
+2015;Minas Gerais;31003508;001;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;10;3;10
 2015;Minas Gerais;31003583;007;Realizada;3;3;Casa;9;2;Próprio – já pago;0;0;2;2;1600;3;533
 2015;Minas Gerais;31003869;017;Realizada;2;2;Casa;5;2;Alugado;450;0;2;8;1633;2;816
 2015;Minas Gerais;31003915;012;Realizada;5;4;Casa;5;2;Próprio – já pago;0;0;2;8;1798;5;359
@@ -6538,7 +6538,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Espírito Santo;32000367;004;Realizada;3;3;N/A;0;0;NA;0;0; ; ;2376;3;792
 2015;Espírito Santo;32000499;009;Realizada;1;1;Casa;5;1;Alugado;400;0;2;2;600;1;600
 2015;Espírito Santo;32000634;004;Realizada;2;2;Casa;3;1;Alugado;350;0;2;6;1760;2;880
-2015;Espírito Santo;32001045;004;Realizada;4;3;Casa;6;3;Próprio – já pago;0;0;4;2;999999999999;4;999999999999
+2015;Espírito Santo;32001045;004;Realizada;4;3;Casa;6;3;Próprio – já pago;0;0;4;2;10;4;10
 2015;Espírito Santo;32001142;005;Realizada;3;1;Casa;5;2;Próprio – já pago;0;0;2;8;1200;3;400
 2015;Espírito Santo;32001150;014;Realizada;6;6;Casa;10;3;Próprio – já pago;0;0;2;6;10788;6;1798
 2015;Espírito Santo;32001231;009;Realizada;3;2;Casa;8;2;Próprio – já pago;0;0;2;2;3000;3;1000
@@ -6548,8 +6548,8 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Espírito Santo;32001711;007;Realizada;6;6;Apartamento;8;3;Alugado;560;0;2;2;4591;6;765
 2015;Espírito Santo;32001754;010;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;8;2000;1;2000
 2015;Espírito Santo;32001754;017;Realizada;5;5;Casa;7;3;Próprio – já pago;0;0;2;2;6588;5;1317
-2015;Espírito Santo;32001835;003;Realizada;1;1;Apartamento;6;1;Próprio – já pago;0;0;2;2;999999999999;1;999999999999
-2015;Espírito Santo;32001843;023;Realizada;2;2;Apartamento;8;2;Cedido de outra forma;0;0;2;2;999999999999;2;999999999999
+2015;Espírito Santo;32001835;003;Realizada;1;1;Apartamento;6;1;Próprio – já pago;0;0;2;2;10;1;10
+2015;Espírito Santo;32001843;023;Realizada;2;2;Apartamento;8;2;Cedido de outra forma;0;0;2;2;10;2;10
 2015;Espírito Santo;32001878;008;Realizada;1;1;Apartamento;7;1;Próprio – já pago;0;0;2;2;13000;1;13000
 2015;Rio de Janeiro;33000085;016;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;8;1200;1;1200
 2015;Rio de Janeiro;33000182;023;Realizada;7;7;Casa;7;3;Próprio – já pago;0;0;2;2;2068;7;295
@@ -6590,7 +6590,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33003114;009;Realizada;4;3;Apartamento;5;2;Alugado;700;0;2;2;2800;4;700
 2015;Rio de Janeiro;33003432;009;Realizada;2;2;Apartamento;6;1;Alugado;3000;0;2;8;11000;2;5500
 2015;Rio de Janeiro;33003459;017;Realizada;1;1;Apartamento;5;1;Próprio – já pago;0;0;2;2;7000;1;7000
-2015;Rio de Janeiro;33003505;009;Realizada;3;3;Apartamento;12;3;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Rio de Janeiro;33003505;009;Realizada;3;3;Apartamento;12;3;Próprio – já pago;0;0;2;2;10;3;10
 2015;Rio de Janeiro;33003513;007;Realizada;3;2;Apartamento;9;2;Alugado;4500;0;2;2;15800;3;5266
 2015;Rio de Janeiro;33003556;008;Realizada;2;2;Apartamento;6;1;Próprio – já pago;0;0;2;8;2000;2;1000
 2015;Rio de Janeiro;33003610;016;Realizada;2;2;Apartamento;7;1;Alugado;2000;0;2;2;8000;2;4000
@@ -6666,7 +6666,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35001020;003;Realizada;1;1;Casa;3;1;Alugado;300;0;4;8;1200;1;1200
 2015;São Paulo;35001062;001;Realizada;2;2;Casa;5;1;Alugado;700;0;2;2;7000;2;3500
 2015;São Paulo;35001062;014;Realizada;2;2;Casa;9;1;Próprio – ainda pagando;0;4000;4;2;13800;2;6900
-2015;São Paulo;35001097;009;Realizada;3;3;Casa;5;2;Alugado;800;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35001097;009;Realizada;3;3;Casa;5;2;Alugado;800;0;2;2;10;3;10
 2015;São Paulo;35001275;011;Realizada;2;2;Apartamento;7;2;Próprio – já pago;0;0;2;4;6000;2;3000
 2015;São Paulo;35001321;005;Realizada;2;2;Casa;8;1;Alugado;1300;0;2;2;4000;2;2000
 2015;São Paulo;35001356;003;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;2;6;9200;3;3066
@@ -6701,7 +6701,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35003413;013;Realizada;4;3;Casa;3;1;Próprio – já pago;0;0;4;8;770;4;192
 2015;São Paulo;35003472;010;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;4;6;2500;2;1250
 2015;São Paulo;35003570;009;Realizada;4;2;Casa;4;1;Cedido de outra forma;0;0;2;2;1500;4;375
-2015;São Paulo;35003618;003;Realizada;4;4;Casa;6;2;Alugado;1000;0;2;2;999999999999;4;999999999999
+2015;São Paulo;35003618;003;Realizada;4;4;Casa;6;2;Alugado;1000;0;2;2;10;4;10
 2015;São Paulo;35003715;015;Realizada;2;2;Apartamento;5;1;Próprio – já pago;0;0;2;2;12700;2;6350
 2015;São Paulo;35003740;010;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;3800;3;1266
 2015;São Paulo;35003820;013;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;2;2;4000;2;2000
@@ -6748,7 +6748,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35006897;001;Realizada;3;2;Casa;4;1;Próprio – ainda pagando;0;706;2;2;1500;3;500
 2015;São Paulo;35007036;006;Realizada;5;3;Casa;5;2;Próprio – já pago;0;0;2;2;1600;5;320
 2015;São Paulo;35007060;007;Realizada;5;4;Casa;5;2;Alugado;700;0;2;8;3030;5;606
-2015;São Paulo;35007060;010;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;São Paulo;35007060;010;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;São Paulo;35007060;016;Realizada;5;5;Casa;6;3;Próprio – já pago;0;0;2;2;2135;5;427
 2015;São Paulo;35007079;007;Realizada;2;2;Casa;4;1;Alugado;740;0;2;8;3200;2;1600
 2015;São Paulo;35007176;013;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;2;1700;1;1700
@@ -6756,7 +6756,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35007222;014;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;8;3000;2;1500
 2015;São Paulo;35007273;021;Realizada;2;2;Casa;11;2;Alugado;1000;0;2;8;2950;2;1475
 2015;São Paulo;35007281;006;Realizada;2;2;Casa;3;1;Alugado;390;0;2;8;800;2;400
-2015;São Paulo;35007389;011;Realizada;1;1;Apartamento;11;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;São Paulo;35007389;011;Realizada;1;1;Apartamento;11;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;São Paulo;35007524;013;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;2;11250;4;2812
 2015;São Paulo;35007575;014;Realizada;4;3;Casa;8;3;Próprio – já pago;0;0;2;8;5800;4;1450
 2015;São Paulo;35007605;003;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;2;2;3764;4;941
@@ -6765,7 +6765,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35007753;011;Realizada;5;3;Casa;6;2;Alugado;1012;0;2;2;7000;5;1400
 2015;São Paulo;35007818;001;Realizada;2;2;Casa;2;1;Alugado;550;0;4;8;1338;2;669
 2015;São Paulo;35007842;001;Realizada;1;1;Apartamento;5;1;Cedido de outra forma;0;0;4;8;2072;1;2072
-2015;São Paulo;35007885;012;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;2;2;999999999999;1;999999999999
+2015;São Paulo;35007885;012;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;2;2;10;1;10
 2015;São Paulo;35007915;007;Realizada;3;3;Apartamento;5;2;Próprio – já pago;0;0;2;2;5000;3;1666
 2015;São Paulo;35007966;009;Realizada;2;2;Casa;5;2;Alugado;4000;0;2;2;12000;2;6000
 2015;São Paulo;35007974;020;Realizada;1;1;Apartamento;6;1;Próprio – já pago;0;0;2;2;12000;1;12000
@@ -6800,7 +6800,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35010118;012;Realizada;4;3;Casa;6;1;Alugado;450;0;2;8;287;4;71
 2015;São Paulo;35010126;021;Realizada;2;2;Casa;5;1;Próprio – ainda pagando;0;560;2;6;4100;2;2050
 2015;São Paulo;35010134;001;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;788;1;788
-2015;São Paulo;35010274;010;Realizada;5;5;Casa;4;2;Próprio – já pago;0;0;2;6;999999999999;5;999999999999
+2015;São Paulo;35010274;010;Realizada;5;5;Casa;4;2;Próprio – já pago;0;0;2;6;10;5;10
 2015;Paraná;41000021;005;Realizada;4;2;Casa;5;2;Próprio – já pago;0;0;2;2;2800;4;700
 2015;Paraná;41000030;004;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;2;1500;1;1500
 2015;Paraná;41000030;006;Realizada;3;2;Casa;5;2;Alugado;600;0;4;2;4300;3;1433
@@ -6844,7 +6844,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraná;41002423;013;Realizada;4;3;Casa;5;2;Alugado;250;0;4;8;1988;4;497
 2015;Paraná;41002504;002;Realizada;2;2;Apartamento;10;1;Próprio – já pago;0;0;2;2;2600;2;1300
 2015;Paraná;41002555;001;Realizada;1;1;Casa;3;1;Cedido de outra forma;0;0;4;8;788;1;788
-2015;Paraná;41002555;013;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
+2015;Paraná;41002555;013;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;2;10;2;10
 2015;Paraná;41002563;009;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;Paraná;41002598;010;Realizada;4;4;Casa;8;3;Próprio – ainda pagando;0;800;2;2;9000;4;2250
 2015;Paraná;41002792;015;Realizada;2;2;Casa;5;2;Alugado;650;0;2;8;4788;2;2394
@@ -6892,7 +6892,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42002060;006;Realizada;4;4;Casa;7;2;Próprio – ainda pagando;0;340;2;2;1800;4;450
 2015;Santa Catarina;42002257;004;Realizada;4;2;Casa;6;3;Alugado;500;0;4;2;2300;4;575
 2015;Santa Catarina;42002311;013;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;8;1638;3;546
-2015;Santa Catarina;42002346;023;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;Santa Catarina;42002346;023;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;Santa Catarina;42002400;013;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;3038;1;3038
 2015;Santa Catarina;42002443;012;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;4;1400;1;1400
 2015;Santa Catarina;42002451;019;Realizada;6;5;Casa;5;3;Alugado;700;0;2;2;2140;6;356
@@ -6921,8 +6921,8 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43001653;004;Realizada;5;5;Casa;7;3;Próprio – já pago;0;0;2;6;4475;5;895
 2015;Rio Grande do Sul;43001750;007;Realizada;5;5;Casa;7;3;Próprio – ainda pagando;0;140;2;6;7498;5;1499
 2015;Rio Grande do Sul;43001815;008;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;6200;3;2066
-2015;Rio Grande do Sul;43002145;001;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;8;999999999999;1;999999999999
-2015;Rio Grande do Sul;43002188;011;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;999999999999;3;999999999999
+2015;Rio Grande do Sul;43002145;001;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;8;10;1;10
+2015;Rio Grande do Sul;43002188;011;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;10;3;10
 2015;Rio Grande do Sul;43002250;006;Realizada;1;1;Casa;3;1;Cedido de outra forma;0;0;4;8;788;1;788
 2015;Rio Grande do Sul;43002269;006;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;8;1988;2;994
 2015;Rio Grande do Sul;43002366;002;Realizada;4;3;Casa;8;3;Próprio – já pago;0;0;2;2;9000;4;2250
@@ -7053,7 +7053,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Goiás;52001660;014;Realizada;4;2;Casa;12;3;Próprio – já pago;0;0;2;2;15000;4;3750
 2015;Goiás;52001792;007;Realizada;3;2;Casa;5;2;Próprio – ainda pagando;0;960;2;2;2000;3;666
 2015;Goiás;52001865;009;Realizada;4;4;Casa;4;2;Alugado;400;0;2;2;1700;4;425
-2015;Goiás;52001903;005;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Goiás;52001903;005;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;2;10;3;10
 2015;Goiás;52001920;002;Realizada;3;3;N/A;0;0;NA;0;0; ; ;788;3;262
 2015;Goiás;52002004;002;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;4;4;2176;3;725
 2015;Goiás;52002047;004;Realizada;3;3;Casa;5;2;Cedido por empregador;0;0;2;2;10440;3;3480
@@ -7076,7 +7076,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Goiás;52003515;012;Realizada;6;5;Casa;5;2;Alugado;400;0;2;2;3764;6;627
 2015;Goiás;52003540;008;Realizada;3;2;Casa;4;2;Próprio – ainda pagando;0;1000;2;2;1576;3;525
 2015;Goiás;52003701;002;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;8;600;2;300
-2015;Goiás;52003760;003;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;999999999999;3;999999999999
+2015;Goiás;52003760;003;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;10;3;10
 2015;Goiás;52003868;004;Realizada;5;4;Casa;8;3;Alugado;500;0;2;8;3400;5;680
 2015;Goiás;52003914;008;Realizada;5;5;Casa;8;3;Próprio – já pago;0;0;2;2;2800;5;560
 2015;Distrito Federal;53000153;002;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;8;2364;3;788
@@ -7124,7 +7124,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rondônia;11001372;011;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;4;788;1;788
 2015;Rondônia;11001410;017;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;4;8;877;2;438
 2015;Rondônia;11001453;005;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;2;1050;1;1050
-2015;Rondônia;11001470;009;Realizada;2;2;Casa;5;1;Cedido de outra forma;0;0;4;4;999999999999;2;999999999999
+2015;Rondônia;11001470;009;Realizada;2;2;Casa;5;1;Cedido de outra forma;0;0;4;4;10;2;10
 2015;Rondônia;11001569;004;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;4;1988;3;662
 2015;Rondônia;11001674;010;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;1420;2;710
 2015;Rondônia;11001690;012;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;4;1150;2;575
@@ -7198,7 +7198,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pará;15001130;001;Realizada;4;4;Casa;3;1;Próprio – já pago;0;0;4;8;1235;4;308
 2015;Pará;15001156;010;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;4;8;1826;3;608
 2015;Pará;15001369;007;Realizada;1;1;Cômodo;2;1;Alugado;230;0;2;8;1400;1;1400
-2015;Pará;15001687;013;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;8;999999999999;4;999999999999
+2015;Pará;15001687;013;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;8;10;4;10
 2015;Pará;15001717;012;Realizada;2;2;Casa;4;2;Alugado;600;0;2;4;4800;2;2400
 2015;Pará;15001784;002;Realizada;3;2;Casa;4;1;Alugado;400;0;4;6;1500;3;500
 2015;Pará;15001830;015;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;8;1988;3;662
@@ -7219,14 +7219,14 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pará;15003027;006;Realizada;2;2;Casa;5;1;Cedido de outra forma;0;0;4;4;70;2;35
 2015;Pará;15003124;009;Realizada;3;2;Casa;4;1;Próprio – já pago;0;0;4;4;1900;3;633
 2015;Pará;15003140;016;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;788;1;788
-2015;Pará;15003302;009;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;4;999999999999;2;999999999999
+2015;Pará;15003302;009;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;4;10;2;10
 2015;Pará;15003388;005;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;6;1200;2;600
 2015;Pará;15003566;004;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;4;2000;3;666
 2015;Pará;15003582;012;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;4;2;2800;4;700
 2015;Pará;15003736;010;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;2;4354;4;1088
 2015;Pará;15003744;001;Realizada;2;2;Casa;4;1;Cedido de outra forma;0;0;2;8;600;2;300
 2015;Pará;15003817;009;Realizada;7;7;Casa;5;3;Próprio – já pago;0;0;4;8;1254;7;179
-2015;Pará;15003850;009;Realizada;7;7;Casa;5;2;Próprio – já pago;0;0;2;8;999999999999;7;999999999999
+2015;Pará;15003850;009;Realizada;7;7;Casa;5;2;Próprio – já pago;0;0;2;8;10;7;10
 2015;Pará;15003930;004;Realizada;4;2;Casa;5;2;Alugado;200;0;2;8;700;4;175
 2015;Pará;15003957;008;Realizada;3;3;Casa;5;2;Alugado;500;0;2;4;2100;3;700
 2015;Pará;15004007;002;Realizada;4;3;Casa;8;3;Próprio – ainda pagando;0;800;2;2;6500;4;1625
@@ -7493,7 +7493,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Alagoas;27000885;010;Realizada;3;3;Casa;5;2;Cedido de outra forma;0;0;4;8;788;3;262
 2015;Alagoas;27001105;011;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;2;8;788;2;394
 2015;Alagoas;27001130;001;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;8;250;2;125
-2015;Alagoas;27001261;004;Realizada;3;2;Casa;4;2;Próprio – já pago;0;0;2;8;999999999999;3;999999999999
+2015;Alagoas;27001261;004;Realizada;3;2;Casa;4;2;Próprio – já pago;0;0;2;8;10;3;10
 2015;Alagoas;27001288;006;Realizada;7;5;Casa;6;3;Próprio – já pago;0;0;4;4;501;7;71
 2015;Alagoas;27001288;008;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;4;8;935;4;233
 2015;Sergipe;28000064;004;Realizada;3;3;Apartamento;7;3;Alugado;710;0;2;8;1850;2;925
@@ -7672,7 +7672,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31004504;006;Realizada;2;2;Apartamento;8;2;Próprio – já pago;0;0;2;2;4900;2;2450
 2015;Minas Gerais;31004504;015;Realizada;2;2;Apartamento;7;1;Outra condição;0;0;2;2;8500;2;4250
 2015;Minas Gerais;31004512;011;Realizada;2;2;Apartamento;5;1;Próprio – já pago;0;0;2;2;2740;2;1370
-2015;Minas Gerais;31004520;004;Realizada;3;3;Apartamento;8;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Minas Gerais;31004520;004;Realizada;3;3;Apartamento;8;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;Minas Gerais;31004555;006;Realizada;3;3;Apartamento;6;3;Próprio – já pago;0;0;2;8;1576;3;525
 2015;Minas Gerais;31004563;004;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;8;808;3;269
 2015;Minas Gerais;31004580;003;Realizada;3;3;Casa;5;3;Próprio – já pago;0;0;4;8;480;3;160
@@ -7732,7 +7732,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Espírito Santo;32000480;002;Realizada;4;4;Casa;8;3;Próprio – já pago;0;0;4;2;2288;4;572
 2015;Espírito Santo;32000499;013;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;4;1564;2;782
 2015;Espírito Santo;32000588;015;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;2;2;1200;2;600
-2015;Espírito Santo;32000650;002;Realizada;1;1;Apartamento;3;1;Alugado;750;0;4;8;999999999999;1;999999999999
+2015;Espírito Santo;32000650;002;Realizada;1;1;Apartamento;3;1;Alugado;750;0;4;8;10;1;10
 2015;Espírito Santo;32000774;010;Realizada;2;2;Casa;7;1;Alugado;500;0;4;8;2288;2;1144
 2015;Espírito Santo;32000790;010;Realizada;2;2;Casa;5;2;Cedido de outra forma;0;0;2;8;300;2;150
 2015;Espírito Santo;32000820;007;Realizada;4;3;Casa;5;2;Cedido por empregador;0;0;4;4;975;4;243
@@ -7743,7 +7743,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Espírito Santo;32001053;007;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;6;1000;3;333
 2015;Espírito Santo;32001053;011;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;4;8;1576;2;788
 2015;Espírito Santo;32001231;013;Realizada;3;2;Casa;5;1;Próprio – já pago;0;0;2;2;1400;3;466
-2015;Espírito Santo;32001398;001;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;2;999999999999;3;999999999999
+2015;Espírito Santo;32001398;001;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;2;10;3;10
 2015;Espírito Santo;32001428;012;Realizada;4;3;Casa;7;2;Cedido por empregador;0;0;4;8;888;4;222
 2015;Espírito Santo;32001479;007;Realizada;5;3;Casa;9;2;Alugado;500;0;2;8;1800;5;360
 2015;Espírito Santo;32001800;019;Realizada;2;2;Casa;4;1;Alugado;480;0;2;2;1500;2;750
@@ -7775,7 +7775,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33001871;004;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;8;2800;4;700
 2015;Rio de Janeiro;33002045;003;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;1500;1;1500
 2015;Rio de Janeiro;33002053;013;Realizada;4;4;Casa;8;2;Próprio – já pago;0;0;2;8;2680;4;670
-2015;Rio de Janeiro;33002118;012;Realizada;2;2;Apartamento;8;1;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
+2015;Rio de Janeiro;33002118;012;Realizada;2;2;Apartamento;8;1;Próprio – já pago;0;0;4;2;10;2;10
 2015;Rio de Janeiro;33002258;011;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;4;1200;2;600
 2015;Rio de Janeiro;33002274;001;Realizada;1;1;Cômodo;3;1;Alugado;320;0;4;8;1100;1;1100
 2015;Rio de Janeiro;33002436;007;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;8;2888;4;722
@@ -7800,7 +7800,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33003386;016;Realizada;2;2;Apartamento;7;1;Alugado;2100;0;2;6;11000;2;5500
 2015;Rio de Janeiro;33003475;002;Realizada;3;3;Apartamento;7;3;Próprio – já pago;0;0;2;8;10000;3;3333
 2015;Rio de Janeiro;33003505;013;Realizada;3;2;Apartamento;10;2;Alugado;4800;0;2;2;30000;3;10000
-2015;Rio de Janeiro;33003661;006;Realizada;3;2;Apartamento;5;2;Alugado;1300;0;2;4;999999999999;3;999999999999
+2015;Rio de Janeiro;33003661;006;Realizada;3;2;Apartamento;5;2;Alugado;1300;0;2;4;10;3;10
 2015;Rio de Janeiro;33003823;019;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;4;8;1800;3;600
 2015;Rio de Janeiro;33003882;014;Realizada;2;2;Apartamento;5;2;Próprio – já pago;0;0;2;2;3500;2;1750
 2015;Rio de Janeiro;33003998;010;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;4;8;1445;4;361
@@ -7872,25 +7872,25 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35002069;013;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;São Paulo;35002077;004;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;2;2;2500;3;833
 2015;São Paulo;35002085;008;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;2;2888;3;962
-2015;São Paulo;35002166;014;Realizada;2;2;Apartamento;9;1;Próprio – ainda pagando;0;990;2;6;999999999999;2;999999999999
-2015;São Paulo;35002190;021;Realizada;6;6;Casa;5;2;Próprio – já pago;0;0;2;8;999999999999;6;999999999999
+2015;São Paulo;35002166;014;Realizada;2;2;Apartamento;9;1;Próprio – ainda pagando;0;990;2;6;10;2;10
+2015;São Paulo;35002190;021;Realizada;6;6;Casa;5;2;Próprio – já pago;0;0;2;8;10;6;10
 2015;São Paulo;35002360;011;Realizada;2;2;Casa;12;2;Próprio – já pago;0;0;2;2;4800;2;2400
 2015;São Paulo;35002409;002;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;8;2176;3;725
 2015;São Paulo;35002620;014;Realizada;4;4;Apartamento;4;2;Próprio – ainda pagando;0;271;2;8;2400;4;600
 2015;São Paulo;35002662;007;Realizada;2;2;Casa;4;2;Próprio – já pago;0;0;4;2;1950;2;975
 2015;São Paulo;35002751;013;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;0;1;0
 2015;São Paulo;35002808;006;Realizada;3;3;Casa;8;3;Próprio – já pago;0;0;2;2;6100;3;2033
-2015;São Paulo;35002859;002;Realizada;2;2;Casa;9;1;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
+2015;São Paulo;35002859;002;Realizada;2;2;Casa;9;1;Próprio – já pago;0;0;4;2;10;2;10
 2015;São Paulo;35002883;001;Realizada;2;2;Casa;10;1;Próprio – já pago;0;0;2;2;5000;2;2500
 2015;São Paulo;35002948;002;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;900;1;900
 2015;São Paulo;35003049;016;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;2;2;1011;3;337
-2015;São Paulo;35003197;009;Realizada;3;3;Casa;4;1;Outra condição;0;0;2;8;999999999999;3;999999999999
+2015;São Paulo;35003197;009;Realizada;3;3;Casa;4;1;Outra condição;0;0;2;8;10;3;10
 2015;São Paulo;35003367;012;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;2;1900;4;475
 2015;São Paulo;35003537;003;Realizada;3;3;Casa;4;2;Cedido de outra forma;0;0;2;6;2000;3;666
 2015;São Paulo;35003537;007;Realizada;3;3;Casa;6;2;Alugado;470;0;2;8;2468;3;822
 2015;São Paulo;35003553;004;Realizada;1;1;Casa;8;1;Cedido por empregador;0;0;4;8;700;1;700
-2015;São Paulo;35003588;017;Realizada;1;1;N/A;0;0;NA;0;0; ; ;999999999999;1;999999999999
-2015;São Paulo;35003618;020;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
+2015;São Paulo;35003588;017;Realizada;1;1;N/A;0;0;NA;0;0; ; ;10;1;10
+2015;São Paulo;35003618;020;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;10;2;10
 2015;São Paulo;35003626;003;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;2;6500;4;1625
 2015;São Paulo;35003634;004;Realizada;1;1;Apartamento;5;1;Próprio – ainda pagando;0;206;4;8;1000;1;1000
 2015;São Paulo;35003740;013;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;2;1200;2;600
@@ -7938,7 +7938,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35007184;013;Realizada;4;4;Casa;5;2;Alugado;1500;0;2;2;7988;4;1997
 2015;São Paulo;35007192;005;Realizada;3;3;Apartamento;7;2;Alugado;1550;0;2;2;7300;3;2433
 2015;São Paulo;35007320;001;Realizada;3;3;Casa;8;3;Próprio – já pago;0;0;2;2;18000;3;6000
-2015;São Paulo;35007338;003;Realizada;4;4;Casa;4;1;Próprio – já pago;0;0;2;8;999999999999;4;999999999999
+2015;São Paulo;35007338;003;Realizada;4;4;Casa;4;1;Próprio – já pago;0;0;2;8;10;4;10
 2015;São Paulo;35007508;014;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;2;8;3280;3;1093
 2015;São Paulo;35007680;008;Realizada;3;3;Apartamento;5;2;Próprio – ainda pagando;0;300;2;2;3000;3;1000
 2015;São Paulo;35007710;014;Realizada;2;2;Apartamento;5;1;Próprio – ainda pagando;0;270;2;2;2000;2;1000
@@ -7949,17 +7949,17 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35008326;009;Realizada;2;2;Apartamento;5;2;Próprio – já pago;0;0;4;2;2400;2;1200
 2015;São Paulo;35008474;005;Realizada;3;3;Apartamento;5;2;Próprio – ainda pagando;0;57;2;4;3825;3;1275
 2015;São Paulo;35008504;015;Realizada;1;1;Apartamento;4;1;Próprio – já pago;0;0;4;8;5600;1;5600
-2015;São Paulo;35008520;012;Realizada;3;3;Apartamento;7;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35008520;012;Realizada;3;3;Apartamento;7;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35008628;013;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;2;8;1300;4;325
 2015;São Paulo;35008695;013;Realizada;4;4;Casa;4;2;Próprio – já pago;0;0;2;2;5346;4;1336
 2015;São Paulo;35008741;005;Realizada;3;3;Apartamento;5;2;Próprio – já pago;0;0;2;2;3400;3;1133
 2015;São Paulo;35008784;018;Realizada;3;3;Apartamento;8;2;Alugado;2300;0;2;8;4780;3;1593
-2015;São Paulo;35008857;013;Realizada;3;2;Apartamento;6;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35008857;013;Realizada;3;2;Apartamento;6;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35008881;001;Realizada;4;2;Casa;4;1;Próprio – já pago;0;0;2;2;4500;4;1125
 2015;São Paulo;35009063;009;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;2;2200;2;1100
 2015;São Paulo;35009101;015;Realizada;2;2;Casa;4;1;Alugado;425;0;2;8;2370;2;1185
 2015;São Paulo;35009136;006;Realizada;3;3;Apartamento;8;2;Próprio – já pago;0;0;2;2;26000;3;8666
-2015;São Paulo;35009470;015;Realizada;2;2;Casa;11;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;São Paulo;35009470;015;Realizada;2;2;Casa;11;1;Próprio – já pago;0;0;2;2;10;2;10
 2015;São Paulo;35009543;011;Realizada;1;1;Casa;5;1;Cedido por empregador;0;0;4;2;2568;1;2568
 2015;São Paulo;35009551;011;Realizada;2;2;Casa;6;1;Alugado;650;0;2;2;1200;2;600
 2015;São Paulo;35009632;014;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;788;1;788
@@ -7974,7 +7974,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35010037;015;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;8;200;1;200
 2015;São Paulo;35010088;004;Realizada;4;4;Casa;5;2;Alugado;500;0;2;6;1580;4;395
 2015;São Paulo;35010096;004;Realizada;4;4;Casa;5;3;Próprio – já pago;0;0;2;6;5217;4;1304
-2015;São Paulo;35010096;007;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;2;8;999999999999;2;999999999999
+2015;São Paulo;35010096;007;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;2;8;10;2;10
 2015;São Paulo;35010100;008;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;8;1576;2;788
 2015;São Paulo;35010100;018;Realizada;3;3;Apartamento;6;3;Próprio – ainda pagando;0;400;2;4;2380;3;793
 2015;São Paulo;35010193;004;Realizada;4;2;Apartamento;5;2;Alugado;900;0;2;2;1800;4;450
@@ -8076,7 +8076,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43000576;011;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;2;2;5000;4;1250
 2015;Rio Grande do Sul;43000665;005;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;1450;1;1450
 2015;Rio Grande do Sul;43000754;007;Realizada;1;1;Casa;3;1;Alugado;330;0;4;8;1200;1;1200
-2015;Rio Grande do Sul;43000916;015;Realizada;4;3;Apartamento;6;2;Próprio – ainda pagando;0;1100;2;2;999999999999;4;999999999999
+2015;Rio Grande do Sul;43000916;015;Realizada;4;3;Apartamento;6;2;Próprio – ainda pagando;0;1100;2;2;10;4;10
 2015;Rio Grande do Sul;43001050;011;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;6;1651;2;825
 2015;Rio Grande do Sul;43001084;021;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;2;1400;2;700
 2015;Rio Grande do Sul;43001149;009;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;6;1800;3;600
@@ -8094,7 +8094,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43002005;006;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;6;2883;2;1441
 2015;Rio Grande do Sul;43002153;016;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;2;2000;1;2000
 2015;Rio Grande do Sul;43002200;004;Realizada;1;1;Casa;5;1;Alugado;700;0;2;2;3000;1;3000
-2015;Rio Grande do Sul;43002420;009;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;2;2;999999999999;4;999999999999
+2015;Rio Grande do Sul;43002420;009;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;2;2;10;4;10
 2015;Rio Grande do Sul;43002579;012;Realizada;4;4;Casa;9;2;Próprio – já pago;0;0;2;2;4964;4;1241
 2015;Rio Grande do Sul;43002684;003;Realizada;3;2;Apartamento;6;2;Alugado;680;0;2;8;1900;3;633
 2015;Rio Grande do Sul;43002714;008;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;6;3788;2;1894
@@ -8137,7 +8137,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43005322;010;Realizada;2;2;Apartamento;14;2;Próprio – já pago;0;0;4;2;2900;1;2900
 2015;Rio Grande do Sul;43005365;013;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;8;7300;1;7300
 2015;Rio Grande do Sul;43005640;006;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;2;2340;2;1170
-2015;Rio Grande do Sul;43005675;001;Realizada;4;3;Casa;9;3;Alugado;999999999999;0;2;6;4500;4;1125
+2015;Rio Grande do Sul;43005675;001;Realizada;4;3;Casa;9;3;Alugado;10;0;2;6;4500;4;1125
 2015;Rio Grande do Sul;43005691;011;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;800;1;800
 2015;Rio Grande do Sul;43005802;001;Realizada;1;1;Casa;5;1;Alugado;600;0;4;8;788;1;788
 2015;Rio Grande do Sul;43005802;005;Realizada;2;1;Apartamento;5;2;Próprio – ainda pagando;0;250;4;8;890;2;445
@@ -8156,7 +8156,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43006701;003;Realizada;2;2;Apartamento;5;1;Próprio – já pago;0;0;4;8;500;2;250
 2015;Rio Grande do Sul;43006710;008;Realizada;5;5;Casa;10;3;Próprio – já pago;0;0;2;2;6500;5;1300
 2015;Rio Grande do Sul;43006752;021;Realizada;8;8;Casa;6;3;Próprio – ainda pagando;0;230;2;2;2300;8;287
-2015;Rio Grande do Sul;43006779;002;Realizada;2;2;Casa;4;2;Próprio – já pago;0;0;2;8;999999999999;2;999999999999
+2015;Rio Grande do Sul;43006779;002;Realizada;2;2;Casa;4;2;Próprio – já pago;0;0;2;8;10;2;10
 2015;Rio Grande do Sul;43006787;005;Realizada;4;3;Casa;6;3;Próprio – já pago;0;0;4;2;2000;4;500
 2015;Rio Grande do Sul;43006825;001;Realizada;6;4;Casa;7;3;Próprio – já pago;0;0;2;6;6060;6;1010
 2015;Rio Grande do Sul;43006892;004;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;2;2;9500;2;4750
@@ -8222,7 +8222,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Goiás;52001008;006;Realizada;4;3;Casa;10;4;Próprio – já pago;0;0;2;2;5500;4;1375
 2015;Goiás;52001024;021;Realizada;2;2;Casa;8;1;Próprio – já pago;0;0;4;4;1576;2;788
 2015;Goiás;52001105;002;Realizada;2;2;Casa;6;1;Alugado;700;0;2;8;2400;2;1200
-2015;Goiás;52001105;005;Realizada;1;1;Casa;9;1;Próprio – já pago;0;0;2;2;999999999999;1;999999999999
+2015;Goiás;52001105;005;Realizada;1;1;Casa;9;1;Próprio – já pago;0;0;2;2;10;1;10
 2015;Goiás;52001164;005;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;2;2300;1;2300
 2015;Goiás;52001202;006;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;8;1200;4;300
 2015;Goiás;52001229;002;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;300;1;300
@@ -8513,7 +8513,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Ceará;23002786;005;Realizada;4;4;Casa;7;2;Próprio – já pago;0;0;4;8;2000;4;500
 2015;Ceará;23002824;005;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;2;8;2488;2;1244
 2015;Ceará;23002948;017;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;4;8;908;2;454
-2015;Ceará;23003030;009;Realizada;1;1;Casa;8;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;Ceará;23003030;009;Realizada;1;1;Casa;8;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;Ceará;23003049;017;Realizada;1;1;Casa;5;1;Cedido de outra forma;0;0;4;4;800;1;800
 2015;Ceará;23003138;008;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;8;1576;2;788
 2015;Ceará;23003251;002;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;4;150;1;150
@@ -8601,7 +8601,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pernambuco;26000644;013;Realizada;7;6;Casa;5;3;Próprio – já pago;0;0;2;8;3278;7;468
 2015;Pernambuco;26000750;017;Realizada;6;5;Casa;5;3;Próprio – já pago;0;0;2;8;350;6;58
 2015;Pernambuco;26000792;005;Realizada;3;2;Casa;6;2;Alugado;450;0;2;8;890;3;296
-2015;Pernambuco;26000911;013;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Pernambuco;26000911;013;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;Pernambuco;26000938;008;Realizada;3;3;Casa;4;2;Alugado;250;0;4;8;900;3;300
 2015;Pernambuco;26001292;002;Realizada;3;1;Casa;6;2;Próprio – já pago;0;0;4;8;788;3;262
 2015;Pernambuco;26001349;004;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;1653;2;826
@@ -8759,7 +8759,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Bahia;29005310;006;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;1888;2;944
 2015;Bahia;29005434;003;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;8;1988;3;662
 2015;Bahia;29005434;016;Realizada;3;3;Casa;9;2;Próprio – já pago;0;0;2;2;4188;3;1396
-2015;Bahia;29005477;015;Realizada;1;1;Apartamento;7;1;Alugado;649;0;2;8;999999999999;1;999999999999
+2015;Bahia;29005477;015;Realizada;1;1;Apartamento;7;1;Alugado;649;0;2;8;10;1;10
 2015;Bahia;29005485;014;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;2;8;2300;3;766
 2015;Bahia;29005620;006;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;8;1400;1;1400
 2015;Bahia;29005639;005;Realizada;5;4;Casa;5;2;Alugado;150;0;2;8;2337;5;467
@@ -8781,7 +8781,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Bahia;29006856;006;Realizada;3;2;Casa;4;1;Próprio – já pago;0;0;4;8;314;3;104
 2015;Bahia;29006902;044;Realizada;2;2;Casa;4;2;Alugado;260;0;2;2;1500;2;750
 2015;Bahia;29006961;002;Realizada;5;4;Casa;7;4;Cedido por empregador;0;0;4;6;2382;5;476
-2015;Bahia;29006996;012;Realizada;1;1;Casa;5;1;Alugado;350;0;4;8;999999999999;1;999999999999
+2015;Bahia;29006996;012;Realizada;1;1;Casa;5;1;Alugado;350;0;4;8;10;1;10
 2015;Bahia;29007020;002;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;Bahia;29007224;002;Realizada;1;1;Casa;5;1;Alugado;350;0;2;8;1000;1;1000
 2015;Bahia;29007313;014;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;4;788;3;262
@@ -8798,7 +8798,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31000568;012;Realizada;2;2;Apartamento;13;2;Próprio – já pago;0;0;2;2;21840;2;10920
 2015;Minas Gerais;31000568;014;Realizada;2;2;Apartamento;8;1;Alugado;2800;0;2;2;21000;2;10500
 2015;Minas Gerais;31000606;003;Realizada;1;1;Apartamento;10;1;Próprio – já pago;0;0;2;2;4000;1;4000
-2015;Minas Gerais;31000614;017;Realizada;3;3;Apartamento;8;2;Próprio – ainda pagando;0;2400;2;2;999999999999;3;999999999999
+2015;Minas Gerais;31000614;017;Realizada;3;3;Apartamento;8;2;Próprio – ainda pagando;0;2400;2;2;10;3;10
 2015;Minas Gerais;31000690;014;Realizada;4;2;Casa;4;1;Alugado;500;0;2;8;2385;4;596
 2015;Minas Gerais;31000703;003;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;3000;1;3000
 2015;Minas Gerais;31000789;007;Realizada;3;1;Casa;2;1;Próprio – já pago;0;0;2;8;1288;3;429
@@ -8809,7 +8809,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31001327;007;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;1576;3;525
 2015;Minas Gerais;31001343;003;Realizada;5;3;Casa;10;3;Cedido de outra forma;0;0;2;2;2188;5;437
 2015;Minas Gerais;31001440;017;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;4;2;3200;2;1600
-2015;Minas Gerais;31001521;013;Realizada;3;3;Apartamento;5;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Minas Gerais;31001521;013;Realizada;3;3;Apartamento;5;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;Minas Gerais;31001521;015;Realizada;2;2;Apartamento;5;2;Próprio – ainda pagando;0;300;2;2;3918;2;1959
 2015;Minas Gerais;31001548;011;Realizada;4;4;Casa;6;2;Próprio – já pago;0;0;2;2;2976;4;744
 2015;Minas Gerais;31001670;006;Realizada;5;3;Casa;8;3;Próprio – já pago;0;0;2;6;4000;5;800
@@ -8843,7 +8843,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31003958;012;Realizada;1;1;Casa;8;1;Próprio – já pago;0;0;2;2;7500;1;7500
 2015;Minas Gerais;31004059;012;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;8;3338;3;1112
 2015;Minas Gerais;31004199;005;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;780;1;780
-2015;Minas Gerais;31004342;015;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Minas Gerais;31004342;015;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;Minas Gerais;31004407;008;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;2;8;1288;2;644
 2015;Minas Gerais;31004520;003;Realizada;3;2;Casa;7;2;Alugado;500;0;2;2;9263;3;3087
 2015;Minas Gerais;31004580;007;Realizada;4;4;Casa;7;2;Próprio – já pago;0;0;2;6;6591;4;1647
@@ -8956,7 +8956,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33002070;004;Realizada;3;3;Casa;4;1;Próprio – já pago;0;0;4;2;1576;3;525
 2015;Rio de Janeiro;33002169;012;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;2;8;1929;2;964
 2015;Rio de Janeiro;33002274;014;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;2000;3;666
-2015;Rio de Janeiro;33002290;001;Realizada;10;9;Casa;7;5;Próprio – ainda pagando;0;999999999999;2;6;788;10;78
+2015;Rio de Janeiro;33002290;001;Realizada;10;9;Casa;7;5;Próprio – ainda pagando;0;10;2;6;788;10;78
 2015;Rio de Janeiro;33002312;013;Realizada;3;3;Casa;6;3;Alugado;600;0;4;8;2364;3;788
 2015;Rio de Janeiro;33002363;013;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;2;4000;1;4000
 2015;Rio de Janeiro;33002371;005;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;2;2200;3;733
@@ -8972,7 +8972,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33003203;006;Realizada;3;3;Apartamento;7;2;Próprio – já pago;0;0;2;2;4000;3;1333
 2015;Rio de Janeiro;33003262;006;Realizada;1;1;Apartamento;8;1;Próprio – já pago;0;0;2;2;11600;1;11600
 2015;Rio de Janeiro;33003556;001;Realizada;1;1;Apartamento;7;1;Alugado;2000;0;2;2;1000;1;1000
-2015;Rio de Janeiro;33003637;006;Realizada;2;2;Apartamento;6;2;Próprio – ainda pagando;0;700;2;2;999999999999;2;999999999999
+2015;Rio de Janeiro;33003637;006;Realizada;2;2;Apartamento;6;2;Próprio – ainda pagando;0;700;2;2;10;2;10
 2015;Rio de Janeiro;33003750;015;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;8;3200;2;1600
 2015;Rio de Janeiro;33003785;011;Realizada;3;2;Apartamento;6;2;Cedido de outra forma;0;0;2;6;4000;3;1333
 2015;Rio de Janeiro;33003807;005;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;8;2500;2;1250
@@ -9053,7 +9053,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35001879;016;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;8;789;2;394
 2015;São Paulo;35002077;010;Realizada;1;1;Casa;3;1;Cedido de outra forma;0;0;2;8;3000;1;3000
 2015;São Paulo;35002123;004;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;1588;2;794
-2015;São Paulo;35002140;007;Realizada;4;3;Casa;6;3;Próprio – ainda pagando;0;999999999999;2;2;999999999999;4;999999999999
+2015;São Paulo;35002140;007;Realizada;4;3;Casa;6;3;Próprio – ainda pagando;0;10;2;2;10;4;10
 2015;São Paulo;35002220;012;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;2;8;788;2;394
 2015;São Paulo;35002263;016;Realizada;3;3;Casa;8;3;Cedido de outra forma;0;0;2;4;2400;3;800
 2015;São Paulo;35002271;010;Realizada;4;4;Casa;9;2;Próprio – ainda pagando;0;400;2;2;12005;4;3001
@@ -9063,7 +9063,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35002530;014;Realizada;3;2;Apartamento;3;1;Alugado;850;0;2;8;3800;3;1266
 2015;São Paulo;35002611;013;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;7500;3;2500
 2015;São Paulo;35002670;004;Realizada;3;3;Casa;2;1;Próprio – ainda pagando;0;250;4;8;812;3;270
-2015;São Paulo;35002697;010;Realizada;4;4;Casa;5;3;Próprio – já pago;0;0;2;2;999999999999;4;999999999999
+2015;São Paulo;35002697;010;Realizada;4;4;Casa;5;3;Próprio – já pago;0;0;2;2;10;4;10
 2015;São Paulo;35002735;015;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;2;1780;4;445
 2015;São Paulo;35002948;003;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;8;4288;4;1072
 2015;São Paulo;35002964;003;Realizada;3;2;Casa;8;2;Próprio – já pago;0;0;2;2;10200;3;3400
@@ -9100,7 +9100,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35004932;001;Realizada;1;1;Casa;4;1;Cedido por empregador;0;0;4;2;980;1;980
 2015;São Paulo;35005149;024;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;2;6;900;4;225
 2015;São Paulo;35005238;008;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;2;2500;2;1250
-2015;São Paulo;35005289;014;Realizada;6;6;Apartamento;5;2;Próprio – ainda pagando;0;200;2;6;999999999999;6;999999999999
+2015;São Paulo;35005289;014;Realizada;6;6;Apartamento;5;2;Próprio – ainda pagando;0;200;2;6;10;6;10
 2015;São Paulo;35005335;001;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;147;1;147
 2015;São Paulo;35005343;011;Realizada;3;3;Casa;7;2;Próprio – já pago;0;0;2;6;2683;3;894
 2015;São Paulo;35005530;011;Realizada;3;3;Casa;4;2;Alugado;600;0;4;8;990;3;330
@@ -9166,7 +9166,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35009659;004;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;2;1100;2;550
 2015;São Paulo;35010134;008;Realizada;3;2;Casa;7;2;Próprio – já pago;0;0;2;2;1400;3;466
 2015;São Paulo;35010169;002;Realizada;2;2;Casa;3;1;Alugado;380;0;4;2;2150;2;1075
-2015;São Paulo;35010223;006;Realizada;3;3;Casa;3;1;Alugado;400;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35010223;006;Realizada;3;3;Casa;3;1;Alugado;400;0;2;2;10;3;10
 2015;São Paulo;35010274;013;Realizada;4;2;Casa;4;2;Próprio – já pago;0;0;2;6;1585;4;396
 2015;Paraná;41000099;001;Realizada;4;3;Casa;6;2;Próprio – ainda pagando;0;49;2;2;5600;4;1400
 2015;Paraná;41000102;010;Realizada;2;2;Casa;8;1;Próprio – ainda pagando;0;39;2;2;3500;2;1750
@@ -9202,7 +9202,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraná;41001885;005;Realizada;3;2;Casa;5;2;Próprio – ainda pagando;0;500;2;2;3500;3;1166
 2015;Paraná;41001923;011;Realizada;4;4;Casa;4;2;Alugado;750;0;2;8;1200;4;300
 2015;Paraná;41002008;011;Realizada;4;3;Casa;4;2;Próprio – ainda pagando;0;366;2;6;1300;4;325
-2015;Paraná;41002016;011;Realizada;2;2;Casa;6;1;Alugado;380;0;4;2;999999999999;2;999999999999
+2015;Paraná;41002016;011;Realizada;2;2;Casa;6;1;Alugado;380;0;4;2;10;2;10
 2015;Paraná;41002237;009;Realizada;3;3;Casa;6;2;Cedido por empregador;0;0;2;2;2900;3;966
 2015;Paraná;41002318;021;Realizada;4;3;Casa;4;2;Alugado;65;0;4;2;1714;4;428
 2015;Paraná;41002466;014;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;2;6288;3;2096
@@ -9248,7 +9248,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42000661;009;Realizada;3;3;Apartamento;7;2;Próprio – já pago;0;0;2;2;4800;3;1600
 2015;Santa Catarina;42000793;004;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;6100;3;2033
 2015;Santa Catarina;42000912;014;Realizada;2;2;Apartamento;6;2;Próprio – já pago;0;0;2;2;9700;2;4850
-2015;Santa Catarina;42000998;015;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Santa Catarina;42000998;015;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;Santa Catarina;42001013;001;Realizada;3;2;Casa;8;1;Alugado;1600;0;2;2;7000;3;2333
 2015;Santa Catarina;42001056;010;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;2;2;6400;2;3200
 2015;Santa Catarina;42001080;010;Realizada;4;3;Casa;5;2;Alugado;300;0;4;8;1110;4;277
@@ -9281,7 +9281,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43000754;001;Realizada;2;2;Casa;4;2;Alugado;400;0;2;8;3300;2;1650
 2015;Rio Grande do Sul;43000827;011;Realizada;3;3;Apartamento;4;2;Alugado;400;0;2;8;2579;3;859
 2015;Rio Grande do Sul;43000835;013;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;2;2;3300;2;1650
-2015;Rio Grande do Sul;43000908;005;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;Rio Grande do Sul;43000908;005;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;2;2;10;2;10
 2015;Rio Grande do Sul;43001122;015;Realizada;1;1;Casa;5;1;Alugado;420;0;2;4;2000;1;2000
 2015;Rio Grande do Sul;43001130;009;Realizada;2;2;Casa;7;1;Próprio – já pago;0;0;2;2;6650;2;3325
 2015;Rio Grande do Sul;43001246;014;Realizada;3;3;Casa;6;2;Cedido por empregador;0;0;4;8;1000;3;333
@@ -9294,13 +9294,13 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43001904;014;Realizada;4;4;Casa;5;3;Próprio – já pago;0;0;2;2;2000;4;500
 2015;Rio Grande do Sul;43002110;005;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;2000;1;2000
 2015;Rio Grande do Sul;43002145;013;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;8;3388;2;1694
-2015;Rio Grande do Sul;43002226;012;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;999999999999;3;999999999999
+2015;Rio Grande do Sul;43002226;012;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;6;10;3;10
 2015;Rio Grande do Sul;43002374;014;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;4;8;1190;2;595
 2015;Rio Grande do Sul;43002676;001;Realizada;4;4;Casa;5;2;Próprio – ainda pagando;0;260;2;6;3200;4;800
 2015;Rio Grande do Sul;43002676;003;Realizada;5;2;Casa;5;2;Próprio – já pago;0;0;4;2;3400;5;680
 2015;Rio Grande do Sul;43002676;025;Realizada;3;3;Casa;6;2;Próprio – ainda pagando;0;360;2;2;8500;3;2833
 2015;Rio Grande do Sul;43002765;010;Realizada;2;2;Casa;9;2;Próprio – já pago;0;0;2;8;2300;2;1150
-2015;Rio Grande do Sul;43002846;008;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;Rio Grande do Sul;43002846;008;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;2;10;2;10
 2015;Rio Grande do Sul;43002854;009;Realizada;5;3;Casa;10;4;Próprio – ainda pagando;0;2900;2;6;6000;5;1200
 2015;Rio Grande do Sul;43002854;012;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;6;4088;4;1022
 2015;Rio Grande do Sul;43003044;008;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;788;1;788
@@ -9496,7 +9496,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rondônia;11000856;009;Realizada;4;4;Casa;8;4;Próprio – já pago;0;0;2;2;21000;4;5250
 2015;Rondônia;11000961;016;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;1200;1;1200
 2015;Rondônia;11001135;001;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;2;5000;2;2500
-2015;Rondônia;11001267;011;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;2;999999999999;1;999999999999
+2015;Rondônia;11001267;011;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;2;10;1;10
 2015;Rondônia;11001291;013;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;1576;1;1576
 2015;Rondônia;11001348;019;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;1350;2;675
 2015;Rondônia;11001518;002;Realizada;6;4;Casa;7;3;Próprio – já pago;0;0;2;6;1700;6;283
@@ -9570,7 +9570,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pará;15000389;006;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;8;1500;2;750
 2015;Pará;15000486;013;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;4;8;1200;4;300
 2015;Pará;15000915;016;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;8;3288;4;822
-2015;Pará;15000958;001;Realizada;6;6;Apartamento;10;4;Alugado;1600;0;2;8;999999999999;6;999999999999
+2015;Pará;15000958;001;Realizada;6;6;Apartamento;10;4;Alugado;1600;0;2;8;10;6;10
 2015;Pará;15001202;011;Realizada;4;4;Casa;15;3;Próprio – já pago;0;0;2;2;16800;4;4200
 2015;Pará;15001229;004;Realizada;2;2;Apartamento;7;2;Próprio – já pago;0;0;2;2;1800;2;900
 2015;Pará;15001270;001;Realizada;3;2;Apartamento;5;1;Alugado;380;0;4;2;1800;3;600
@@ -9582,12 +9582,12 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pará;15001644;003;Realizada;4;2;Casa;5;2;Próprio – já pago;0;0;2;6;3000;4;750
 2015;Pará;15001660;009;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;6;5888;4;1472
 2015;Pará;15001687;009;Realizada;4;3;Casa;5;2;Próprio – já pago;0;0;2;8;1488;4;372
-2015;Pará;15001733;010;Realizada;5;4;Casa;5;2;Próprio – já pago;0;0;2;2;999999999999;5;999999999999
+2015;Pará;15001733;010;Realizada;5;4;Casa;5;2;Próprio – já pago;0;0;2;2;10;5;10
 2015;Pará;15002004;015;Realizada;5;5;Casa;3;2;Próprio – já pago;0;0;4;8;1888;5;377
 2015;Pará;15002039;001;Realizada;5;2;Casa;4;1;Próprio – já pago;0;0;2;8;888;5;177
 2015;Pará;15002055;013;Realizada;3;2;Casa;3;1;Alugado;450;0;4;8;1132;3;377
 2015;Pará;15002110;015;Realizada;2;2;Casa;9;1;Próprio – já pago;0;0;4;8;788;2;394
-2015;Pará;15002217;015;Realizada;7;5;Casa;6;3;Próprio – já pago;0;0;2;2;999999999999;7;999999999999
+2015;Pará;15002217;015;Realizada;7;5;Casa;6;3;Próprio – já pago;0;0;2;2;10;7;10
 2015;Pará;15002322;010;Realizada;5;4;Casa;5;2;Próprio – já pago;0;0;2;8;3500;5;700
 2015;Pará;15002470;009;Realizada;8;6;Casa;8;2;Próprio – já pago;0;0;2;8;7760;8;970
 2015;Pará;15002527;011;Realizada;4;3;Casa;2;1;Próprio – já pago;0;0;4;8;1023;4;255
@@ -9637,7 +9637,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Tocantins;17001129;009;Realizada;4;4;Casa;8;3;Alugado;750;0;4;6;1200;1;1200
 2015;Tocantins;17001161;012;Realizada;5;5;Casa;5;2;Alugado;250;0;2;2;2500;5;500
 2015;Tocantins;17001226;004;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;4;327;3;109
-2015;Tocantins;17001315;009;Realizada;2;2;Casa;6;2;Alugado;1000;0;2;8;999999999999;2;999999999999
+2015;Tocantins;17001315;009;Realizada;2;2;Casa;6;2;Alugado;1000;0;2;8;10;2;10
 2015;Tocantins;17001390;006;Realizada;3;3;Casa;6;3;Alugado;700;0;2;2;4150;3;1383
 2015;Tocantins;17001439;002;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;2;2800;3;933
 2015;Maranhão;21000042;006;Realizada;8;3;Casa;4;3;Próprio – já pago;0;0;2;4;1468;8;183
@@ -9776,7 +9776,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraíba;25000918;010;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;8;1188;2;594
 2015;Paraíba;25000985;008;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;8;900;2;450
 2015;Paraíba;25001124;007;Realizada;3;3;Casa;7;2;Cedido de outra forma;0;0;4;8;1130;3;376
-2015;Paraíba;25001175;002;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;Paraíba;25001175;002;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;Paraíba;25001205;003;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;2;4;617;3;205
 2015;Paraíba;25001230;006;Realizada;3;3;Casa;5;3;Cedido de outra forma;0;0;4;8;2015;3;671
 2015;Paraíba;25001256;017;Realizada;3;3;Casa;3;1;Próprio – já pago;0;0;4;4;2000;3;666
@@ -10088,7 +10088,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33000433;013;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;5000;3;1666
 2015;Rio de Janeiro;33000654;005;Realizada;2;1;Casa;8;2;Próprio – já pago;0;0;2;8;3000;2;1500
 2015;Rio de Janeiro;33000778;008;Realizada;2;2;Casa;4;1;Alugado;450;0;2;8;1500;2;750
-2015;Rio de Janeiro;33000824;006;Realizada;1;1;Casa;4;1;Cedido de outra forma;0;0;4;8;999999999999;1;999999999999
+2015;Rio de Janeiro;33000824;006;Realizada;1;1;Casa;4;1;Cedido de outra forma;0;0;4;8;10;1;10
 2015;Rio de Janeiro;33000859;003;Realizada;4;2;Casa;3;2;Próprio – já pago;0;0;2;8;2620;4;655
 2015;Rio de Janeiro;33000891;001;Realizada;3;2;Casa;4;1;Próprio – já pago;0;0;4;4;1225;3;408
 2015;Rio de Janeiro;33000891;002;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;6;788;1;788
@@ -10119,8 +10119,8 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33002126;014;Realizada;2;2;Apartamento;10;1;Próprio – já pago;0;0;2;2;2200;2;1100
 2015;Rio de Janeiro;33002142;015;Realizada;2;2;Apartamento;8;2;Próprio – já pago;0;0;4;8;4400;2;2200
 2015;Rio de Janeiro;33002258;009;Realizada;3;2;Casa;4;1;Próprio – já pago;0;0;4;8;0;3;0
-2015;Rio de Janeiro;33002258;017;Realizada;7;6;Casa;7;2;Próprio – já pago;0;0;2;2;999999999999;7;999999999999
-2015;Rio de Janeiro;33002266;012;Realizada;1;1;Apartamento;4;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
+2015;Rio de Janeiro;33002258;017;Realizada;7;6;Casa;7;2;Próprio – já pago;0;0;2;2;10;7;10
+2015;Rio de Janeiro;33002266;012;Realizada;1;1;Apartamento;4;1;Próprio – já pago;0;0;4;8;10;1;10
 2015;Rio de Janeiro;33002355;002;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;6000;3;2000
 2015;Rio de Janeiro;33002355;015;Realizada;3;2;Casa;7;2;Próprio – já pago;0;0;2;4;2200;3;733
 2015;Rio de Janeiro;33002398;003;Realizada;5;4;Casa;6;2;Próprio – já pago;0;0;2;8;2888;5;577
@@ -10131,7 +10131,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33002789;016;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;1500;1;1500
 2015;Rio de Janeiro;33002959;010;Realizada;3;2;Casa;5;2;Próprio – ainda pagando;0;1200;2;2;2200;3;733
 2015;Rio de Janeiro;33003076;010;Realizada;2;2;N/A;0;0;NA;0;0; ; ;2200;2;1100
-2015;Rio de Janeiro;33003190;012;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;2;6;999999999999;1;999999999999
+2015;Rio de Janeiro;33003190;012;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;2;6;10;1;10
 2015;Rio de Janeiro;33003246;013;Realizada;1;1;Apartamento;7;1;Alugado;3000;0;2;8;10200;1;10200
 2015;Rio de Janeiro;33003289;004;Realizada;1;1;Apartamento;4;1;Próprio – já pago;0;0;2;8;10000;1;10000
 2015;Rio de Janeiro;33003300;015;Realizada;3;3;Apartamento;7;2;Alugado;3700;0;2;8;16800;3;5600
@@ -10196,7 +10196,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35000589;005;Realizada;5;4;Casa;7;3;Próprio – já pago;0;0;2;6;2250;5;450
 2015;São Paulo;35000716;003;Realizada;4;4;Apartamento;6;2;Próprio – já pago;0;0;2;2;3268;4;817
 2015;São Paulo;35000759;012;Realizada;3;3;Casa;5;1;Próprio – já pago;0;0;2;8;2500;3;833
-2015;São Paulo;35000856;010;Realizada;4;4;Casa;15;3;Próprio – ainda pagando;0;999999999999;2;2;16000;4;4000
+2015;São Paulo;35000856;010;Realizada;4;4;Casa;15;3;Próprio – ainda pagando;0;10;2;2;16000;4;4000
 2015;São Paulo;35000872;002;Realizada;1;1;Casa;5;1;Próprio – ainda pagando;0;598;2;8;2400;1;2400
 2015;São Paulo;35000880;015;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;2;4705;3;1568
 2015;São Paulo;35001020;010;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;2;6;2388;5;477
@@ -10219,13 +10219,13 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35002514;007;Realizada;2;2;Apartamento;5;2;Próprio – já pago;0;0;2;8;5576;2;2788
 2015;São Paulo;35002522;010;Realizada;2;2;Casa;3;1;Próprio – já pago;0;0;4;2;788;2;394
 2015;São Paulo;35002590;008;Realizada;4;4;Casa;8;2;Próprio – ainda pagando;0;4600;2;2;6000;4;1500
-2015;São Paulo;35002603;013;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;São Paulo;35002603;013;Realizada;3;3;Casa;7;3;Próprio – já pago;0;0;2;2;10;3;10
 2015;São Paulo;35002735;007;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;8;1000;3;333
 2015;São Paulo;35003006;001;Realizada;1;1;Casa;4;1;Cedido de outra forma;0;0;4;8;800;1;800
 2015;São Paulo;35003081;009;Realizada;2;1;Casa;8;2;Próprio – já pago;0;0;2;2;788;2;394
 2015;São Paulo;35003162;004;Realizada;4;2;Casa;3;1;Próprio – já pago;0;0;4;8;1130;4;282
 2015;São Paulo;35003359;002;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;2;2888;3;962
-2015;São Paulo;35003448;005;Realizada;5;5;Casa;8;3;Próprio – já pago;0;0;2;2;999999999999;5;999999999999
+2015;São Paulo;35003448;005;Realizada;5;5;Casa;8;3;Próprio – já pago;0;0;2;2;10;5;10
 2015;São Paulo;35003693;003;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;6;7100;4;1775
 2015;São Paulo;35003987;015;Realizada;7;6;Casa;6;3;Alugado;760;0;2;2;3876;7;553
 2015;São Paulo;35004002;009;Realizada;3;3;Casa;6;2;Alugado;900;0;2;2;2364;3;788
@@ -10246,7 +10246,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35005165;005;Realizada;3;3;Casa;4;2;Cedido de outra forma;0;0;2;6;4900;3;1633
 2015;São Paulo;35005386;011;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;8;2388;2;1194
 2015;São Paulo;35005505;004;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;1780;1;1780
-2015;São Paulo;35005513;010;Realizada;6;6;Casa;5;3;Próprio – já pago;0;0;2;2;999999999999;6;999999999999
+2015;São Paulo;35005513;010;Realizada;6;6;Casa;5;3;Próprio – já pago;0;0;2;2;10;6;10
 2015;São Paulo;35005807;013;Realizada;5;5;Casa;4;2;Próprio – já pago;0;0;2;8;4288;5;857
 2015;São Paulo;35005840;004;Realizada;2;2;Apartamento;7;2;Próprio – já pago;0;0;4;8;5788;2;2894
 2015;São Paulo;35005904;010;Realizada;3;2;Apartamento;3;1;Alugado;551;0;2;8;2600;3;866
@@ -10274,7 +10274,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35007435;014;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;8;2073;2;1036
 2015;São Paulo;35007575;006;Realizada;5;5;Casa;11;4;Próprio – já pago;0;0;2;2;12000;5;2400
 2015;São Paulo;35007621;003;Realizada;2;2;Casa;4;2;Alugado;2100;0;4;2;1700;2;850
-2015;São Paulo;35007729;010;Realizada;5;5;Casa;4;1;Próprio – já pago;0;0;2;2;999999999999;5;999999999999
+2015;São Paulo;35007729;010;Realizada;5;5;Casa;4;1;Próprio – já pago;0;0;2;2;10;5;10
 2015;São Paulo;35007788;006;Realizada;3;2;Casa;3;1;Alugado;500;0;4;8;100;3;33
 2015;São Paulo;35007893;010;Realizada;4;4;Casa;8;2;Próprio – já pago;0;0;2;6;14800;4;3700
 2015;São Paulo;35007893;016;Realizada;2;2;Casa;5;2;Outra condição;0;0;2;8;788;2;394
@@ -10282,7 +10282,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35007974;009;Realizada;1;1;Apartamento;10;1;Próprio – já pago;0;0;2;2;12000;1;12000
 2015;São Paulo;35008032;006;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;8;3500;4;875
 2015;São Paulo;35008113;013;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;2;3800;4;950
-2015;São Paulo;35008326;012;Realizada;1;1;Apartamento;5;1;Alugado;280;0;2;4;999999999999;1;999999999999
+2015;São Paulo;35008326;012;Realizada;1;1;Apartamento;5;1;Alugado;280;0;2;4;10;1;10
 2015;São Paulo;35008385;002;Realizada;1;1;Apartamento;4;1;Próprio – ainda pagando;0;1050;2;4;3700;1;3700
 2015;São Paulo;35008431;006;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;2;2;7300;5;1460
 2015;São Paulo;35008466;007;Realizada;2;2;Casa;4;2;Alugado;500;0;2;8;3200;2;1600
@@ -10327,12 +10327,12 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraná;41001192;008;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;8;4588;3;1529
 2015;Paraná;41001290;003;Realizada;4;4;Casa;5;2;Alugado;700;0;2;2;3064;4;766
 2015;Paraná;41001362;001;Realizada;3;3;Casa;16;2;Próprio – já pago;0;0;2;2;17500;3;5833
-2015;Paraná;41001559;004;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;2;999999999999;1;999999999999
+2015;Paraná;41001559;004;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;2;2;10;1;10
 2015;Paraná;41001702;005;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;2;2700;2;1350
 2015;Paraná;41001710;005;Realizada;2;2;Casa;8;1;Próprio – já pago;0;0;4;2;2450;2;1225
 2015;Paraná;41001788;008;Realizada;4;4;Apartamento;6;3;Próprio – ainda pagando;0;209;2;2;9200;4;2300
 2015;Paraná;41001842;005;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;2;2;1500;1;1500
-2015;Paraná;41001885;006;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;2;999999999999;3;999999999999
+2015;Paraná;41001885;006;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;2;10;3;10
 2015;Paraná;41001907;006;Realizada;4;2;Casa;6;2;Próprio – já pago;0;0;2;2;1800;4;450
 2015;Paraná;41001923;003;Realizada;2;2;Apartamento;5;2;Próprio – ainda pagando;0;173;2;2;5376;2;2688
 2015;Paraná;41002091;003;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;2;2500;2;1250
@@ -10347,7 +10347,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraná;41002750;007;Realizada;4;3;Apartamento;7;2;Alugado;1300;0;2;6;4500;4;1125
 2015;Paraná;41002750;009;Realizada;3;3;Apartamento;8;3;Alugado;1600;0;2;2;14960;3;4986
 2015;Paraná;41002750;019;Realizada;2;2;Apartamento;10;2;Próprio – já pago;0;0;4;2;4861;2;2430
-2015;Paraná;41002890;009;Realizada;4;4;Casa;5;3;Próprio – já pago;0;0;4;2;999999999999;4;999999999999
+2015;Paraná;41002890;009;Realizada;4;4;Casa;5;3;Próprio – já pago;0;0;4;2;10;4;10
 2015;Paraná;41002954;011;Realizada;3;2;Casa;8;1;Próprio – ainda pagando;0;500;2;6;2500;3;833
 2015;Paraná;41003063;017;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;6;7500;4;1875
 2015;Paraná;41003098;018;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;6;3748;4;937
@@ -10389,7 +10389,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42001811;008;Realizada;5;5;Casa;6;3;Próprio – já pago;0;0;4;4;1858;5;371
 2015;Santa Catarina;42001862;011;Realizada;3;2;Casa;4;1;Alugado;150;0;4;8;1250;3;416
 2015;Santa Catarina;42001943;009;Realizada;2;1;Apartamento;7;2;Próprio – já pago;0;0;2;2;2500;2;1250
-2015;Santa Catarina;42001978;022;Realizada;8;8;Casa;15;5;Próprio – já pago;0;0;2;2;999999999999;8;999999999999
+2015;Santa Catarina;42001978;022;Realizada;8;8;Casa;15;5;Próprio – já pago;0;0;2;2;10;8;10
 2015;Santa Catarina;42002117;001;Realizada;3;3;Casa;7;2;Alugado;500;0;2;2;1200;3;400
 2015;Santa Catarina;42002311;020;Realizada;4;3;Casa;6;3;Alugado;1000;0;2;6;2300;4;575
 2015;Santa Catarina;42002320;017;Realizada;2;2;Casa;5;1;Alugado;350;0;4;8;1576;2;788
@@ -10425,7 +10425,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43001904;001;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;1388;2;694
 2015;Rio Grande do Sul;43001963;014;Realizada;4;4;Casa;6;2;Próprio – já pago;0;0;2;2;4000;4;1000
 2015;Rio Grande do Sul;43002048;003;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;2;2;2400;3;800
-2015;Rio Grande do Sul;43002110;001;Realizada;2;2;Apartamento;5;1;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;Rio Grande do Sul;43002110;001;Realizada;2;2;Apartamento;5;1;Próprio – já pago;0;0;2;2;10;2;10
 2015;Rio Grande do Sul;43002153;007;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;4;8;1578;3;526
 2015;Rio Grande do Sul;43002153;015;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;1729;2;864
 2015;Rio Grande do Sul;43002218;001;Realizada;3;3;Casa;6;3;Próprio – já pago;0;0;2;2;4760;3;1586
@@ -10583,9 +10583,9 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Goiás;52002233;005;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;4;2000;1;2000
 2015;Goiás;52002276;008;Realizada;5;4;Casa;5;2;Próprio – já pago;0;0;2;2;1312;5;262
 2015;Goiás;52002306;005;Realizada;4;4;Casa;4;2;Alugado;600;0;4;8;3376;4;844
-2015;Goiás;52002314;003;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;2;999999999999;1;999999999999
+2015;Goiás;52002314;003;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;4;2;10;1;10
 2015;Goiás;52002470;007;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;4;1580;1;1580
-2015;Goiás;52002616;005;Realizada;3;2;Casa;6;2;Próprio – ainda pagando;0;999999999999;2;2;3200;3;1066
+2015;Goiás;52002616;005;Realizada;3;2;Casa;6;2;Próprio – ainda pagando;0;10;2;2;3200;3;1066
 2015;Goiás;52002683;002;Realizada;2;2;Casa;4;2;Próprio – já pago;0;0;2;8;1200;2;600
 2015;Goiás;52002861;019;Realizada;1;1;Casa;8;1;Alugado;400;0;4;8;788;1;788
 2015;Goiás;52002896;004;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;1576;1;1576
@@ -10733,7 +10733,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Pará;15003850;004;Realizada;4;4;Casa;7;2;Próprio – já pago;0;0;2;2;2300;4;575
 2015;Pará;15003876;013;Realizada;2;2;Casa;6;2;Próprio – já pago;0;0;2;8;1188;2;594
 2015;Pará;15003892;014;Realizada;5;4;Casa;9;4;Próprio – já pago;0;0;2;6;2932;5;586
-2015;Pará;15003981;010;Realizada;5;5;Casa;6;3;Próprio – já pago;0;0;2;8;999999999999;5;999999999999
+2015;Pará;15003981;010;Realizada;5;5;Casa;6;3;Próprio – já pago;0;0;2;8;10;5;10
 2015;Pará;15003990;009;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;2;5450;4;1362
 2015;Pará;15004015;011;Realizada;5;2;Casa;4;1;Próprio – já pago;0;0;4;8;1060;5;212
 2015;Pará;15004112;010;Realizada;5;5;Casa;6;3;Próprio – já pago;0;0;4;2;3776;5;755
@@ -10761,7 +10761,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Tocantins;17000025;007;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;2;8;0;2;0
 2015;Tocantins;17000076;003;Realizada;1;1;Casa;12;1;Próprio – já pago;0;0;2;2;2500;1;2500
 2015;Tocantins;17000114;015;Realizada;5;3;Casa;5;2;Próprio – já pago;0;0;2;4;977;5;195
-2015;Tocantins;17000130;016;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;4;999999999999;2;999999999999
+2015;Tocantins;17000130;016;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;4;10;2;10
 2015;Tocantins;17000211;005;Realizada;4;4;Casa;5;2;Alugado;500;0;2;4;2200;4;550
 2015;Tocantins;17000319;011;Realizada;1;1;Casa;5;1;Alugado;405;0;2;8;700;1;700
 2015;Tocantins;17000343;010;Realizada;3;2;Casa;3;1;Próprio – ainda pagando;0;1300;4;4;3288;3;1096
@@ -10783,7 +10783,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Maranhão;21000522;004;Realizada;1;1;Casa;3;1;Próprio – ainda pagando;0;200;4;8;800;1;800
 2015;Maranhão;21000611;011;Realizada;3;3;Casa;6;2;Próprio – já pago;0;0;4;8;2376;3;792
 2015;Maranhão;21000638;006;Realizada;4;4;Casa;5;2;Cedido de outra forma;0;0;4;6;1520;4;380
-2015;Maranhão;21000697;014;Realizada;7;7;Casa;8;4;Próprio – já pago;0;0;4;8;999999999999;7;999999999999
+2015;Maranhão;21000697;014;Realizada;7;7;Casa;8;4;Próprio – já pago;0;0;4;8;10;7;10
 2015;Maranhão;21000697;015;Realizada;6;5;Casa;7;3;Próprio – já pago;0;0;4;4;240;6;40
 2015;Maranhão;21000743;011;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;2;4;3400;5;680
 2015;Maranhão;21000794;002;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;800;1;800
@@ -10919,7 +10919,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Paraíba;25001094;016;Realizada;6;5;Casa;5;2;Próprio – já pago;0;0;4;8;1488;6;248
 2015;Paraíba;25001140;004;Realizada;2;2;Casa;7;2;Alugado;350;0;2;8;2588;2;1294
 2015;Paraíba;25001167;002;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;4;2;1200;3;400
-2015;Paraíba;25001221;008;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;4;8;999999999999;3;999999999999
+2015;Paraíba;25001221;008;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;4;8;10;3;10
 2015;Paraíba;25001280;016;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;8;900;4;225
 2015;Paraíba;25001434;013;Realizada;4;4;Casa;4;2;Próprio – já pago;0;0;2;4;3805;4;951
 2015;Pernambuco;26000148;015;Realizada;5;4;Casa;7;3;Próprio – já pago;0;0;4;4;1576;5;315
@@ -11059,7 +11059,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Bahia;29002575;015;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;577;2;288
 2015;Bahia;29002656;004;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;2;8;1377;2;688
 2015;Bahia;29002737;004;Realizada;3;3;Casa;8;2;Próprio – já pago;0;0;2;2;2500;3;833
-2015;Bahia;29002931;008;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;2;2;999999999999;5;999999999999
+2015;Bahia;29002931;008;Realizada;5;5;Casa;5;2;Próprio – já pago;0;0;2;2;10;5;10
 2015;Bahia;29002958;009;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;8;1434;2;717
 2015;Bahia;29003024;014;Realizada;2;2;Casa;8;1;Próprio – já pago;0;0;4;8;2056;2;1028
 2015;Bahia;29003040;012;Realizada;3;3;Casa;9;3;Próprio – já pago;0;0;4;2;1560;3;520
@@ -11123,7 +11123,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31000681;012;Realizada;1;1;Casa;3;1;Próprio – já pago;0;0;4;8;89;1;89
 2015;Minas Gerais;31000843;010;Realizada;1;1;Casa;9;1;Próprio – já pago;0;0;4;8;788;1;788
 2015;Minas Gerais;31000878;015;Realizada;4;2;Apartamento;6;2;Próprio – já pago;0;0;2;2;14560;4;3640
-2015;Minas Gerais;31000932;004;Realizada;1;1;Apartamento;7;1;Alugado;1200;0;2;8;999999999999;1;999999999999
+2015;Minas Gerais;31000932;004;Realizada;1;1;Apartamento;7;1;Alugado;1200;0;2;8;10;1;10
 2015;Minas Gerais;31001106;011;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;4;8;800;1;800
 2015;Minas Gerais;31001211;007;Realizada;2;2;Apartamento;7;2;Próprio – já pago;0;0;2;2;4630;2;2315
 2015;Minas Gerais;31001416;002;Realizada;1;1;Casa;2;1;Cedido de outra forma;0;0;4;8;788;1;788
@@ -11205,7 +11205,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Minas Gerais;31007821;004;Realizada;4;4;Apartamento;5;2;Próprio – ainda pagando;0;220;2;6;5800;4;1450
 2015;Minas Gerais;31007830;013;Realizada;4;4;Casa;17;3;Próprio – já pago;0;0;2;6;6800;4;1700
 2015;Minas Gerais;31007945;008;Realizada;4;4;Casa;11;3;Próprio – já pago;0;0;2;2;11200;4;2800
-2015;Minas Gerais;31008127;017;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
+2015;Minas Gerais;31008127;017;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;4;2;10;2;10
 2015;Espírito Santo;32000073;003;Realizada;6;4;Casa;7;3;Próprio – já pago;0;0;2;2;4300;6;716
 2015;Espírito Santo;32000090;002;Realizada;1;1;Casa;7;1;Próprio – já pago;0;0;2;8;2250;1;2250
 2015;Espírito Santo;32000294;014;Realizada;5;4;Casa;4;2;Próprio – já pago;0;0;2;2;4538;5;907
@@ -11258,8 +11258,8 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio de Janeiro;33003068;012;Realizada;5;4;Casa;6;3;Alugado;3500;0;2;2;6500;5;1300
 2015;Rio de Janeiro;33003360;015;Realizada;1;1;Apartamento;8;1;Próprio – já pago;0;0;2;8;6000;1;6000
 2015;Rio de Janeiro;33003386;006;Realizada;5;5;Apartamento;9;3;Alugado;3800;0;2;2;26800;5;5360
-2015;Rio de Janeiro;33003483;015;Realizada;4;3;Apartamento;14;3;Alugado;999999999999;0;2;2;15000;4;3750
-2015;Rio de Janeiro;33003491;013;Realizada;3;1;Apartamento;10;2;Próprio – já pago;0;0;2;2;999999999999;3;999999999999
+2015;Rio de Janeiro;33003483;015;Realizada;4;3;Apartamento;14;3;Alugado;10;0;2;2;15000;4;3750
+2015;Rio de Janeiro;33003491;013;Realizada;3;1;Apartamento;10;2;Próprio – já pago;0;0;2;2;10;3;10
 2015;Rio de Janeiro;33003637;013;Realizada;4;4;Apartamento;4;2;Cedido por empregador;0;0;2;2;5700;4;1425
 2015;Rio de Janeiro;33003688;015;Realizada;2;2;Apartamento;8;1;Próprio – já pago;0;0;2;8;2000;2;1000
 2015;Rio de Janeiro;33003874;001;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;8;1050;1;1050
@@ -11325,7 +11325,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35001305;011;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;2;2;2200;2;1100
 2015;São Paulo;35001348;013;Realizada;4;4;Apartamento;5;2;Próprio – ainda pagando;0;150;2;2;4000;4;1000
 2015;São Paulo;35001445;001;Realizada;3;2;Casa;10;2;Próprio – ainda pagando;0;2500;2;2;15000;3;5000
-2015;São Paulo;35001496;004;Realizada;5;4;Casa;5;2;Alugado;750;0;2;2;999999999999;5;999999999999
+2015;São Paulo;35001496;004;Realizada;5;4;Casa;5;2;Alugado;750;0;2;2;10;5;10
 2015;São Paulo;35001518;002;Realizada;4;2;Casa;5;2;Alugado;600;0;2;8;1098;4;274
 2015;São Paulo;35001623;007;Realizada;4;4;Casa;3;1;Próprio – já pago;0;0;4;8;2700;4;675
 2015;São Paulo;35001640;016;Realizada;2;2;Casa;5;1;Alugado;500;0;2;6;3400;2;1700
@@ -11351,13 +11351,13 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35003383;014;Realizada;7;5;Casa;8;4;Alugado;1080;0;2;2;2400;7;342
 2015;São Paulo;35003391;001;Realizada;1;1;Casa;4;1;Próprio – já pago;0;0;2;8;1300;1;1300
 2015;São Paulo;35003391;008;Realizada;1;1;Casa;2;1;Alugado;450;0;2;4;1300;1;1300
-2015;São Paulo;35003588;003;Realizada;4;3;Apartamento;6;3;Alugado;1600;0;2;2;999999999999;4;999999999999
+2015;São Paulo;35003588;003;Realizada;4;3;Apartamento;6;3;Alugado;1600;0;2;2;10;4;10
 2015;São Paulo;35003618;015;Realizada;4;4;Casa;5;2;Próprio – ainda pagando;0;40;2;8;1000;4;250
 2015;São Paulo;35003774;008;Realizada;3;3;Casa;5;2;Próprio – já pago;0;0;2;2;2476;3;825
 2015;São Paulo;35003960;001;Realizada;3;3;Casa;8;2;Alugado;800;0;2;2;14100;3;4700
 2015;São Paulo;35004070;005;Realizada;4;4;Casa;7;2;Próprio – já pago;0;0;2;2;6100;4;1525
 2015;São Paulo;35004096;004;Realizada;3;3;Casa;5;2;Próprio – ainda pagando;0;64;2;2;3200;3;1066
-2015;São Paulo;35004231;011;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;999999999999;2;999999999999
+2015;São Paulo;35004231;011;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;10;2;10
 2015;São Paulo;35004720;008;Realizada;3;2;Casa;6;1;Alugado;800;0;2;2;2600;3;866
 2015;São Paulo;35004835;003;Realizada;1;1;Casa;8;1;Próprio – já pago;0;0;2;2;2500;1;2500
 2015;São Paulo;35005076;009;Realizada;3;3;Casa;10;2;Próprio – já pago;0;0;2;2;3000;3;1000
@@ -11382,12 +11382,12 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;São Paulo;35006684;002;Realizada;1;1;Casa;4;1;Alugado;400;0;4;8;1500;1;1500
 2015;São Paulo;35006684;010;Realizada;4;4;Casa;5;2;Próprio – já pago;0;0;2;8;6300;4;1575
 2015;São Paulo;35006706;002;Realizada;4;3;Casa;4;2;Próprio – já pago;0;0;2;8;1150;4;287
-2015;São Paulo;35006749;017;Realizada;2;2;Casa;5;2;Alugado;2000;0;4;8;999999999999;2;999999999999
+2015;São Paulo;35006749;017;Realizada;2;2;Casa;5;2;Alugado;2000;0;4;8;10;2;10
 2015;São Paulo;35006781;027;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;2;2;3000;3;1000
 2015;São Paulo;35007117;013;Realizada;2;2;Apartamento;5;2;Próprio – ainda pagando;0;190;2;8;1300;2;650
 2015;São Paulo;35007150;015;Realizada;1;1;Apartamento;5;1;Alugado;2500;0;2;2;11500;1;11500
 2015;São Paulo;35007206;018;Realizada;3;3;Cômodo;7;1;Próprio – já pago;0;0;2;8;1500;3;500
-2015;São Paulo;35007249;005;Realizada;3;3;Apartamento;5;2;Próprio – já pago;0;0;4;8;999999999999;3;999999999999
+2015;São Paulo;35007249;005;Realizada;3;3;Apartamento;5;2;Próprio – já pago;0;0;4;8;10;3;10
 2015;São Paulo;35007290;006;Realizada;1;1;Casa;6;1;Alugado;500;0;2;8;993;1;993
 2015;São Paulo;35007354;012;Realizada;3;2;Casa;4;1;Alugado;700;0;2;8;1935;3;645
 2015;São Paulo;35007362;010;Realizada;2;2;Apartamento;12;1;Próprio – já pago;0;0;2;2;5000;2;2500
@@ -11485,7 +11485,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42000742;005;Realizada;4;4;Casa;6;2;Alugado;350;0;4;2;5900;4;1475
 2015;Santa Catarina;42000742;006;Realizada;4;4;Casa;11;3;Próprio – já pago;0;0;2;2;6500;4;1625
 2015;Santa Catarina;42000890;012;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;8;3000;2;1500
-2015;Santa Catarina;42000912;009;Realizada;2;2;Apartamento;9;2;Próprio – já pago;0;0;2;2;999999999999;2;999999999999
+2015;Santa Catarina;42000912;009;Realizada;2;2;Apartamento;9;2;Próprio – já pago;0;0;2;2;10;2;10
 2015;Santa Catarina;42000920;008;Realizada;2;2;N/A;0;0;NA;0;0; ; ;1888;2;944
 2015;Santa Catarina;42000963;007;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;2;8;3580;2;1790
 2015;Santa Catarina;42001234;007;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;4;2000;1;2000
@@ -11502,7 +11502,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Santa Catarina;42001811;015;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;2576;2;1288
 2015;Santa Catarina;42001854;004;Realizada;2;2;Casa;4;1;Alugado;250;0;4;8;877;2;438
 2015;Santa Catarina;42001919;008;Realizada;3;3;Casa;4;2;Próprio – já pago;0;0;2;4;3720;3;1240
-2015;Santa Catarina;42001951;014;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;4;2;999999999999;3;999999999999
+2015;Santa Catarina;42001951;014;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;4;2;10;3;10
 2015;Santa Catarina;42002079;013;Realizada;4;4;Casa;7;4;Próprio – já pago;0;0;2;2;3900;4;975
 2015;Santa Catarina;42002206;009;Realizada;1;1;Apartamento;4;1;Alugado;600;0;2;8;1500;1;1500
 2015;Santa Catarina;42002419;016;Realizada;2;2;Apartamento;10;1;Próprio – já pago;0;0;4;2;9789;2;4894
@@ -11546,11 +11546,11 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43001920;002;Realizada;1;1;Apartamento;9;1;Alugado;788;0;4;8;1576;1;1576
 2015;Rio Grande do Sul;43001947;007;Realizada;4;2;Apartamento;10;1;Próprio – já pago;0;0;2;2;10100;4;2525
 2015;Rio Grande do Sul;43002080;004;Realizada;2;2;Casa;7;2;Próprio – já pago;0;0;2;2;2290;2;1145
-2015;Rio Grande do Sul;43002188;007;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;2;999999999999;2;999999999999
-2015;Rio Grande do Sul;43002269;008;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
-2015;Rio Grande do Sul;43002269;014;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;999999999999;1;999999999999
-2015;Rio Grande do Sul;43002269;016;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;2;999999999999;1;999999999999
-2015;Rio Grande do Sul;43002323;011;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;2;999999999999;4;999999999999
+2015;Rio Grande do Sul;43002188;007;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;2;10;2;10
+2015;Rio Grande do Sul;43002269;008;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;10;1;10
+2015;Rio Grande do Sul;43002269;014;Realizada;1;1;Casa;5;1;Próprio – já pago;0;0;4;8;10;1;10
+2015;Rio Grande do Sul;43002269;016;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;2;10;1;10
+2015;Rio Grande do Sul;43002323;011;Realizada;4;4;Casa;7;3;Próprio – já pago;0;0;2;2;10;4;10
 2015;Rio Grande do Sul;43002340;001;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;2;6;600;2;300
 2015;Rio Grande do Sul;43002340;016;Realizada;2;2;Casa;4;1;Próprio – já pago;0;0;4;4;1576;2;788
 2015;Rio Grande do Sul;43002374;003;Realizada;3;2;Casa;4;1;Próprio – já pago;0;0;4;2;858;3;286
@@ -11564,11 +11564,11 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Rio Grande do Sul;43002811;008;Realizada;3;3;Casa;8;3;Próprio – já pago;0;0;2;4;3000;3;1000
 2015;Rio Grande do Sul;43002889;015;Realizada;3;2;Casa;6;2;Próprio – já pago;0;0;2;2;2100;3;700
 2015;Rio Grande do Sul;43002951;015;Realizada;3;2;Casa;5;2;Alugado;700;0;2;8;1200;3;400
-2015;Rio Grande do Sul;43003028;014;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;2;8;999999999999;2;999999999999
+2015;Rio Grande do Sul;43003028;014;Realizada;2;2;Casa;8;2;Próprio – já pago;0;0;2;8;10;2;10
 2015;Rio Grande do Sul;43003044;005;Realizada;3;2;Casa;4;2;Próprio – já pago;0;0;2;2;3576;3;1192
 2015;Rio Grande do Sul;43003052;016;Realizada;4;4;Casa;7;3;Alugado;450;0;2;2;3276;4;819
 2015;Rio Grande do Sul;43003222;002;Realizada;2;2;Casa;5;2;Próprio – já pago;0;0;4;8;890;2;445
-2015;Rio Grande do Sul;43003249;013;Realizada;3;3;Casa;7;2;Alugado;999999999999;0;4;2;2300;3;766
+2015;Rio Grande do Sul;43003249;013;Realizada;3;3;Casa;7;2;Alugado;10;0;4;2;2300;3;766
 2015;Rio Grande do Sul;43003338;007;Realizada;2;1;Casa;6;1;Próprio – já pago;0;0;2;8;788;2;394
 2015;Rio Grande do Sul;43003427;012;Realizada;2;2;Casa;10;1;Próprio – já pago;0;0;4;2;1400;2;700
 2015;Rio Grande do Sul;43003486;011;Realizada;6;4;Casa;4;2;Próprio – já pago;0;0;4;8;1876;6;312
@@ -11659,7 +11659,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Mato Grosso do Sul;50001477;005;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;988;2;494
 2015;Mato Grosso do Sul;50015885;002;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;2;1000;2;500
 2015;Mato Grosso;51000121;011;Realizada;5;4;Casa;7;3;Próprio – ainda pagando;0;1030;2;4;5036;5;1007
-2015;Mato Grosso;51000148;003;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;4;999999999999;2;999999999999
+2015;Mato Grosso;51000148;003;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;4;10;2;10
 2015;Mato Grosso;51000156;007;Realizada;5;5;Casa;4;2;Próprio – já pago;0;0;4;8;3572;5;714
 2015;Mato Grosso;51000199;017;Realizada;1;1;Casa;3;1;Alugado;150;0;4;4;2800;1;2800
 2015;Mato Grosso;51000431;013;Realizada;4;4;Casa;8;3;Próprio – já pago;0;0;2;6;5040;4;1260
@@ -11693,7 +11693,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Goiás;52000877;007;Realizada;2;2;Casa;6;1;Próprio – já pago;0;0;2;2;2394;2;1197
 2015;Goiás;52000931;009;Realizada;2;2;Casa;5;1;Próprio – já pago;0;0;4;8;4000;2;2000
 2015;Goiás;52001067;006;Realizada;4;4;Casa;6;3;Próprio – já pago;0;0;2;6;3590;4;897
-2015;Goiás;52001075;007;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;2;8;999999999999;3;999999999999
+2015;Goiás;52001075;007;Realizada;3;2;Casa;5;2;Próprio – já pago;0;0;2;8;10;3;10
 2015;Goiás;52001164;002;Realizada;2;1;Casa;4;1;Alugado;350;0;2;8;900;2;450
 2015;Goiás;52001199;014;Realizada;3;2;Casa;5;2;Alugado;788;0;2;2;5800;3;1933
 2015;Goiás;52001237;013;Realizada;1;1;Casa;8;1;Próprio – já pago;0;0;4;8;1638;1;1638
@@ -11748,7 +11748,7 @@ Ano de referência;Unidade da Federação;Número de controle;Número de série;
 2015;Distrito Federal;53001427;015;Realizada;1;1;Casa;6;1;Próprio – já pago;0;0;4;8;700;1;700
 2015;Distrito Federal;53001451;005;Realizada;3;2;Casa;5;2;Alugado;400;0;4;2;3000;3;1000
 2015;Distrito Federal;53001460;007;Realizada;5;2;Casa;7;3;Próprio – já pago;0;0;2;2;3000;5;600
-2015;Distrito Federal;53001532;004;Realizada;4;3;Casa;5;3;Próprio – já pago;0;0;2;8;999999999999;4;999999999999
+2015;Distrito Federal;53001532;004;Realizada;4;3;Casa;5;3;Próprio – já pago;0;0;2;8;10;4;10
 2015;Distrito Federal;53001613;005;Realizada;5;5;Apartamento;8;3;Cedido por empregador;0;0;2;2;5000;5;1000
 2015;Distrito Federal;53001699;003;Realizada;1;1;Casa;5;1;Alugado;364;0;4;8;780;1;780
 2015;Distrito Federal;53001788;007;Realizada;5;5;Casa;6;3;Próprio – já pago;0;0;2;2;14200;5;2840
